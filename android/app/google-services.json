@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "230189385154",
+    "firebase_url": "https://learning-english-e684b-default-rtdb.firebaseio.com",
+    "project_id": "learning-english-e684b",
+    "storage_bucket": "learning-english-e684b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230189385154:android:027315bdfe06d4b77d425b",
+        "android_client_info": {
+          "package_name": "pdp.academy.learning_english"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg7o9T_aPVdv0EEK8zzQ2jdLnCQ8amtRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
