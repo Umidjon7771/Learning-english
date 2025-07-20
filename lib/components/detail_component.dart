@@ -36,17 +36,6 @@ class _MyWidgetState extends State<MyWidget> {
         ),
         child: ListTile(
           contentPadding: EdgeInsets.all(16),
-          leading: Container(
-            width: 50,
-            height: 50,
-            decoration: BoxDecoration(
-              color: lesson['color'].withOpacity(0.1),
-              borderRadius: BorderRadius.circular(12),
-            ),
-            child: Center(
-              child: Text(lesson['icon'], style: TextStyle(fontSize: 20)),
-            ),
-          ),
           title: Text(
             lesson['title'],
             style: TextStyle(
@@ -54,31 +43,6 @@ class _MyWidgetState extends State<MyWidget> {
               fontWeight: FontWeight.w600,
               color: Color(0xFF2C3E50),
             ),
-          ),
-          subtitle: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              SizedBox(height: 8),
-              LinearProgressIndicator(
-                value: lesson['progress'],
-                backgroundColor: Colors.grey[200],
-                valueColor: AlwaysStoppedAnimation<Color>(lesson['color']),
-                minHeight: 6,
-              ),
-              SizedBox(height: 8),
-              Text(
-                lesson['progress'] == 1.0
-                    ? 'Tugatildi'
-                    : lesson['progress'] > 0
-                        ? 'Jarayonda'
-                        : 'Boshlanmagan',
-                style: TextStyle(
-                  fontSize: 12,
-                  color: lesson['color'],
-                  fontWeight: FontWeight.w500,
-                ),
-              ),
-            ],
           ),
           trailing: Icon(
             Icons.arrow_forward_ios,

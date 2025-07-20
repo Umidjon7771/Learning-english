@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class PresentSimplePage extends StatefulWidget {
+class FuturePerfectContPage extends StatefulWidget {
   @override
-  _PresentSimplePageState createState() => _PresentSimplePageState();
+  _FuturePerfectContPageState createState() => _FuturePerfectContPageState();
 }
 
-class _PresentSimplePageState extends State<PresentSimplePage>
+class _FuturePerfectContPageState extends State<FuturePerfectContPage>
     with TickerProviderStateMixin {
   late TabController _tabController;
   int _currentExampleIndex = 0;
@@ -15,24 +15,24 @@ class _PresentSimplePageState extends State<PresentSimplePage>
 
   final List<Map<String, String>> _examples = [
     {
-      'positive': 'I work at a bank.',
-      'negative': "I don't work at a bank.",
-      'question': 'Do I work at a bank?'
+      'positive': 'I will have been working all day.',
+      'negative': "I won't have been working all day.",
+      'question': 'Will I have been working all day?'
     },
     {
-      'positive': 'She speaks English.',
-      'negative': "She doesn't speak English.",
-      'question': 'Does she speak English?'
+      'positive': 'She will have been going to school.',
+      'negative': "She won't have been going to school.",
+      'question': 'Will she have been going to school?'
     },
     {
-      'positive': 'They live in New York.',
-      'negative': "They don't live in New York.",
-      'question': 'Do they live in New York?'
+      'positive': 'They will have been eating breakfast.',
+      'negative': "They won't have been eating breakfast.",
+      'question': 'Will they have been eating breakfast?'
     },
     {
-      'positive': 'He plays football.',
-      'negative': "He doesn't play football.",
-      'question': 'Does he play football?'
+      'positive': 'He will have been reading the book.',
+      'negative': "He won't have been reading the book.",
+      'question': 'Will he have been reading the book?'
     },
   ];
 
@@ -86,7 +86,7 @@ class _PresentSimplePageState extends State<PresentSimplePage>
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            'Present Simple',
+            'Future Perfect Continuous',
             style: TextStyle(
               color: Colors.grey[800],
               fontSize: 20,
@@ -94,7 +94,7 @@ class _PresentSimplePageState extends State<PresentSimplePage>
             ),
           ),
           Text(
-            'Asosiy ingliz zamon',
+            "Kelajakda ma'lum bir muddat davom etib, tugallanadigan harakat.",
             style: TextStyle(
               color: Colors.grey[600],
               fontSize: 12,
@@ -152,29 +152,35 @@ class _PresentSimplePageState extends State<PresentSimplePage>
         children: [
           _buildCard(
             icon: Icons.lightbulb_outline,
-            title: 'Present Simple nima?',
+            title: 'Future Perfect Continuous',
             content: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  'Present Simple - bu ingliz tilidagi eng asosiy zamon hisoblanadi. U odatiy harakatlar, faktlar va holatlarni ifodalash uchun ishlatiladi.',
+                  'Kelajakda ma’lum bir muddat davom etib, ma’lum vaqtda tugallanadigan yoki yakun topadigan harakat yoki holatni ifodalaydi.',
                   style: TextStyle(fontSize: 16, height: 1.5),
                 ),
                 SizedBox(height: 16),
                 _buildFeatureItem(
-                  icon: Icons.repeat,
-                  title: 'Muntazam harakatlar',
-                  description: 'Har kuni takrorlanadigan ishlar',
+                  icon: Icons.schedule,
+                  title:
+                      'Kelajakda ma’lum muddat davom etib tugallanadigan ish',
+                  description:
+                      'Kelajakda ma’lum vaqt davomida davom etib, yakunlanadigan harakatni bildiradi.',
                 ),
                 _buildFeatureItem(
-                  icon: Icons.fact_check,
-                  title: 'Faktlar',
-                  description: 'Haqiqatlar va ma\'lumotlar',
+                  icon: Icons.lightbulb_outline,
+                  title:
+                      'Kelajakda ma’lum muddat davom etib bajarilgan qaror yoki niyat',
+                  description:
+                      'Gapirayotgan paytgacha yoki kelajakda ma’lum muddat davom etib amalga oshirilgan ish yoki qarorni ifodalaydi.',
                 ),
                 _buildFeatureItem(
-                  icon: Icons.favorite,
-                  title: 'Sevimli narsalar',
-                  description: 'Xobbiylar va qiziqishlar',
+                  icon: Icons.auto_awesome,
+                  title:
+                      'Kelajakda ma’lum muddat davom etib bajariladigan umid yoki bashorat',
+                  description:
+                      'Kelajakdagi ma’lum vaqt davomida amalga oshirilishi kutilayotgan umid yoki bashoratni ifodalash uchun ishlatiladi.',
                 ),
               ],
             ),
@@ -187,11 +193,21 @@ class _PresentSimplePageState extends State<PresentSimplePage>
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 _buildUsageItem(
-                    'Har kuni sodir bo\'ladigan ishlar', 'I wake up at 7 AM'),
-                _buildUsageItem('Umumiy faktlar', 'The sun rises in the east'),
-                _buildUsageItem('Sevimli narsalar', 'She likes chocolate'),
+                  'Kelajakda boshqa voqeadan oldin ma’lum muddat davom etib tugallanadigan ish',
+                  'I will have been studying for two hours before my friends arrive',
+                ),
                 _buildUsageItem(
-                    'Professional faoliyat', 'He works as a doctor'),
+                  'Kelajakda ketma-ket bo‘ladigan, ma’lum muddat davom etadigan harakatlar',
+                  'She will have been waiting for 30 minutes when the bus finally comes',
+                ),
+                _buildUsageItem(
+                  'Kelajakda holat yoki natijani sabab bilan ko‘rsatish',
+                  'He will be tired because he will have been working all day',
+                ),
+                _buildUsageItem(
+                  'Kelajakda uzoq davom etib, yakunlanadigan holatni ta’kidlash',
+                  'They will have been living in London for five years before moving to Paris',
+                ),
               ],
             ),
           ),
@@ -212,11 +228,16 @@ class _PresentSimplePageState extends State<PresentSimplePage>
             title: 'Tasdiq gapi (+)',
             content: Column(
               children: [
-                _buildFormulaBox('Subject + Verb + Object'),
+                _buildFormulaBox(
+                  'Subject + will have been + Verb-ing',
+                ),
                 SizedBox(height: 12),
-                _buildStructureExample('I', 'work', 'at home'),
-                _buildStructureExample('She', 'studies', 'English'),
-                _buildStructureExample('They', 'play', 'football'),
+                _buildStructureExample(
+                    'I', 'will have been working', 'all day'),
+                _buildStructureExample(
+                    'She', 'will have been studying', 'exam'),
+                _buildStructureExample(
+                    'They', 'will have been playing', 'for hours'),
               ],
             ),
           ),
@@ -226,11 +247,16 @@ class _PresentSimplePageState extends State<PresentSimplePage>
             title: 'Inkor gapi (-)',
             content: Column(
               children: [
-                _buildFormulaBox('Subject + don\'t/doesn\'t + Verb + Object'),
+                _buildFormulaBox(
+                  'Subject + will not (won\'t) + have been + Verb-ing',
+                ),
                 SizedBox(height: 12),
-                _buildStructureExample('I', "don't work", 'at home'),
-                _buildStructureExample('She', "doesn't study", 'English'),
-                _buildStructureExample('They', "don't play", 'football'),
+                _buildStructureExample(
+                    'I', "won't have been working", 'all day'),
+                _buildStructureExample(
+                    'She', "won't have been studying", 'exam'),
+                _buildStructureExample(
+                    'They', "won't have been playing", 'hours'),
               ],
             ),
           ),
@@ -240,11 +266,16 @@ class _PresentSimplePageState extends State<PresentSimplePage>
             title: 'Savol gapi (?)',
             content: Column(
               children: [
-                _buildFormulaBox('Do/Does + Subject + Verb + Object?'),
+                _buildFormulaBox(
+                  'Will + Subject + have been + Verb-ing + Object?',
+                ),
                 SizedBox(height: 12),
-                _buildStructureExample('Do', 'I work', 'at home?'),
-                _buildStructureExample('Does', 'she study', 'English?'),
-                _buildStructureExample('Do', 'they play', 'football?'),
+                _buildStructureExample(
+                    'Will', 'I have been working', 'all day?'),
+                _buildStructureExample(
+                    'Will', 'she have been studying', 'exam?'),
+                _buildStructureExample(
+                    'Will', 'they have been playing', 'hours?'),
               ],
             ),
           ),
@@ -353,7 +384,7 @@ class _PresentSimplePageState extends State<PresentSimplePage>
                     border: Border.all(color: Colors.blue[200]!),
                   ),
                   child: Text(
-                    'He _____ football every weekend.',
+                    'Will they be working on the project for weeks before the deadline?',
                     style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
                   ),
                 ),
@@ -633,7 +664,7 @@ class _PresentSimplePageState extends State<PresentSimplePage>
   }
 
   void _checkQuizAnswer() {
-    bool isCorrect = _quizAnswer.toLowerCase().trim() == 'plays';
+    bool isCorrect = _quizAnswer.toLowerCase().trim() == 'will';
     setState(() {
       _isQuizCorrect = isCorrect;
       _showQuizResult = true;
@@ -672,7 +703,7 @@ class _PresentSimplePageState extends State<PresentSimplePage>
                 ),
                 if (!_isQuizCorrect)
                   Text(
-                    'To\'g\'ri javob: "plays"',
+                    'To\'g\'ri javob: "will"',
                     style: TextStyle(color: Colors.grey[600]),
                   ),
               ],

@@ -26,9 +26,7 @@ class _SettingPageState extends State<SettingPage> {
                 Switch(
                   value: state,
                   onChanged: (value) {
-                    setState(() {
-                      context.read<ThemeBloc>().add(TogglePressed());
-                    });
+                    context.read<ThemeBloc>().add(TogglePressed());
                   },
                 ),
                 Text(

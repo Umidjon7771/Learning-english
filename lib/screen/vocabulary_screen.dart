@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_tts/flutter_tts.dart';
 import 'package:learning_english/models/word_model.dart';
 import 'package:learning_english/service/word_service.dart';
 import 'package:lottie/lottie.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class VocabularyScreen extends StatefulWidget {
   const VocabularyScreen({super.key});
@@ -11,6 +13,57 @@ class VocabularyScreen extends StatefulWidget {
 }
 
 class _VocabularyScreenState extends State<VocabularyScreen> {
+  final FlutterTts flutterTts = FlutterTts();
+
+  Map<String, bool> likedWords = {};
+  Future<void> _loadLikedWords() async {
+    final prefs = await SharedPreferences.getInstance();
+    List<String> liked = prefs.getStringList('liked_words') ?? [];
+
+    setState(() {
+      likedWords = {};
+      for (String wordId in liked) {
+        likedWords[wordId] = true;
+      }
+    });
+  }
+
+  Future<void> _toggleLike(Word word) async {
+    final prefs = await SharedPreferences.getInstance();
+    List<String> liked = prefs.getStringList('liked_words') ?? [];
+
+    if (likedWords[word.word] == true) {
+      // Remove from liked
+      liked.remove(word.word);
+      likedWords[word.word] = false;
+      // SharedPreferences'dan ham o'chirish
+      await prefs.remove('word_${word.word}');
+      await prefs.remove('translation_${word.word}');
+      await prefs.remove('example_${word.word}');
+      await prefs.remove('translationExample_${word.word}');
+    } else {
+      // Add to liked
+      liked.add(word.word);
+      likedWords[word.word] = true;
+      // SharedPreferences'ga saqlash
+      await prefs.setString('word_${word.word}', word.word);
+      await prefs.setString('translation_${word.word}', word.translation);
+      await prefs.setString('example_${word.word}', word.example);
+      await prefs.setString(
+          'translationExample_${word.word}', word.translationExample);
+    }
+
+    await prefs.setStringList('liked_words', liked);
+
+    setState(() {}); // UI'ni yangilash
+  }
+
+  void _speak(String text) async {
+    await flutterTts.setLanguage("en-US"); // Inglizcha tilda o'qiydi
+    await flutterTts.setPitch(1); // Ovoz ohangi
+    await flutterTts.speak(text); // Matnni o'qish
+  }
+
   bool isPressed = true;
   final TextEditingController wordController = TextEditingController();
 
@@ -22,7 +75,14 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
     super.initState();
     wordController.addListener(() {
       filterWords();
+      _loadLikedWords();
     });
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    _loadLikedWords(); // Page'ga qaytganda reload qiladi
   }
 
   void filterWords() {
@@ -88,6 +148,15 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                     padding: const EdgeInsets.all(20),
                     child: Row(
                       children: [
+                        IconButton(
+                          onPressed: () {
+                            Navigator.pop(context);
+                          },
+                          icon: Icon(
+                            Icons.arrow_back_ios,
+                            color: Colors.white,
+                          ),
+                        ),
                         const Text(
                           'Lug\'at',
                           style: TextStyle(
@@ -252,10 +321,26 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                 ),
               ),
               Row(
-                children: const [
-                  Icon(Icons.volume_up, color: Color(0xFF7B68EE), size: 22),
+                children: [
+                  IconButton(
+                    onPressed: () => _speak(word.word),
+                    icon: Icon(Icons.volume_up),
+                  ),
                   SizedBox(width: 10),
-                  Icon(Icons.favorite_border, color: Colors.grey, size: 22),
+                  IconButton(
+                    onPressed: () {
+                      _toggleLike(word);
+                    },
+                    icon: Icon(
+                      (likedWords[word.word] ?? false)
+                          ? Icons.favorite
+                          : Icons.favorite_border,
+                      size: 22,
+                      color: (likedWords[word.word] ?? false)
+                          ? Colors.red
+                          : Colors.grey,
+                    ),
+                  ),
                 ],
               ),
             ],

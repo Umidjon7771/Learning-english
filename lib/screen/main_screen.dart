@@ -15,7 +15,7 @@ class _MainScreenState extends State<MainScreen> {
 
   final List<Widget> _screens = [
     HomeScreen(),
-    OnProcess(),
+    LikedPage(),
     ProfileScreen(),
   ];
 
@@ -51,10 +51,12 @@ class _MainScreenState extends State<MainScreen> {
               icon: Icon(Icons.favorite_sharp),
               label: 'Tanlanganlar',
             ),
-            BottomNavigationBarItem(
-              icon: Icon(Icons.person_rounded),
-              label: 'Profil',
-            ),
+            //keyingi versiyadan qoshiladi
+            
+            // BottomNavigationBarItem(
+            //   icon: Icon(Icons.person_rounded),
+            //   label: 'Profil',
+            // ),
           ],
         ),
       ),

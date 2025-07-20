@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class PresentSimplePage extends StatefulWidget {
+class PastPerfectCont extends StatefulWidget {
   @override
-  _PresentSimplePageState createState() => _PresentSimplePageState();
+  _PastPerfectContState createState() => _PastPerfectContState();
 }
 
-class _PresentSimplePageState extends State<PresentSimplePage>
+class _PastPerfectContState extends State<PastPerfectCont>
     with TickerProviderStateMixin {
   late TabController _tabController;
   int _currentExampleIndex = 0;
@@ -15,25 +15,25 @@ class _PresentSimplePageState extends State<PresentSimplePage>
 
   final List<Map<String, String>> _examples = [
     {
-      'positive': 'I work at a bank.',
-      'negative': "I don't work at a bank.",
-      'question': 'Do I work at a bank?'
+      'positive': 'I was working at a bank.',
+      'negative': "I wasn't working at a bank.",
+      'question': 'Was I working at a bank?'
     },
     {
-      'positive': 'She speaks English.',
-      'negative': "She doesn't speak English.",
-      'question': 'Does she speak English?'
+      'positive': 'She was speaking English.',
+      'negative': "She wasn't speaking English.",
+      'question': 'Was she speaking English?'
     },
     {
-      'positive': 'They live in New York.',
-      'negative': "They don't live in New York.",
-      'question': 'Do they live in New York?'
+      'positive': 'They were living in New York.',
+      'negative': "They weren't living in New York.",
+      'question': 'Were they living in New York?'
     },
     {
-      'positive': 'He plays football.',
-      'negative': "He doesn't play football.",
-      'question': 'Does he play football?'
-    },
+      'positive': 'He was playing football.',
+      'negative': "He wasn't playing football.",
+      'question': 'Was he playing football?'
+    }
   ];
 
   @override
@@ -86,7 +86,7 @@ class _PresentSimplePageState extends State<PresentSimplePage>
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            'Present Simple',
+            'Present Continuous',
             style: TextStyle(
               color: Colors.grey[800],
               fontSize: 20,
@@ -94,7 +94,7 @@ class _PresentSimplePageState extends State<PresentSimplePage>
             ),
           ),
           Text(
-            'Asosiy ingliz zamon',
+            'O‘tayotgan zamonda davom etayotgan ish.',
             style: TextStyle(
               color: Colors.grey[600],
               fontSize: 12,
@@ -152,29 +152,32 @@ class _PresentSimplePageState extends State<PresentSimplePage>
         children: [
           _buildCard(
             icon: Icons.lightbulb_outline,
-            title: 'Present Simple nima?',
+            title: 'Past Continuous nima?',
             content: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  'Present Simple - bu ingliz tilidagi eng asosiy zamon hisoblanadi. U odatiy harakatlar, faktlar va holatlarni ifodalash uchun ishlatiladi.',
+                  'O‘tmish davomiy zamon (Past Continuous) – harakat yoki holat o‘tmishda ma’lum bir vaqtda davom etayotganini bildiradi. Bu zamonda voqea aynan qaysi vaqtda bo‘layotganiga urg‘u beriladi.',
                   style: TextStyle(fontSize: 16, height: 1.5),
                 ),
                 SizedBox(height: 16),
                 _buildFeatureItem(
-                  icon: Icons.repeat,
-                  title: 'Muntazam harakatlar',
-                  description: 'Har kuni takrorlanadigan ishlar',
+                  icon: Icons.timelapse,
+                  title: 'Davom etayotgan harakat',
+                  description:
+                      'O‘tmishda ma’lum bir vaqtda davom etayotgan ish yoki holat',
                 ),
                 _buildFeatureItem(
-                  icon: Icons.fact_check,
-                  title: 'Faktlar',
-                  description: 'Haqiqatlar va ma\'lumotlar',
+                  icon: Icons.warning,
+                  title: 'Ikki harakat bir paytda',
+                  description:
+                      'O‘tmishda bir vaqtda davom etgan ikki ishni ifodalaydi',
                 ),
                 _buildFeatureItem(
-                  icon: Icons.favorite,
-                  title: 'Sevimli narsalar',
-                  description: 'Xobbiylar va qiziqishlar',
+                  icon: Icons.lightbulb,
+                  title: 'Fon voqeasi',
+                  description:
+                      'Asosiy voqea bo‘layotganda, orqa fonda davom etgan holat',
                 ),
               ],
             ),
@@ -187,11 +190,21 @@ class _PresentSimplePageState extends State<PresentSimplePage>
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 _buildUsageItem(
-                    'Har kuni sodir bo\'ladigan ishlar', 'I wake up at 7 AM'),
-                _buildUsageItem('Umumiy faktlar', 'The sun rises in the east'),
-                _buildUsageItem('Sevimli narsalar', 'She likes chocolate'),
+                  'O‘tmishda davom etayotgan ish',
+                  'I was studying at 8 PM yesterday',
+                ),
                 _buildUsageItem(
-                    'Professional faoliyat', 'He works as a doctor'),
+                  'Bir vaqtda ikki ish bo‘layotgan holat',
+                  'She was cooking while I was cleaning',
+                ),
+                _buildUsageItem(
+                  'Fon voqeasi sifatida ishlatilgan',
+                  'He was walking when it started to rain',
+                ),
+                _buildUsageItem(
+                  'Muayyan paytda davom etayotgan ish',
+                  'They were watching a movie at 10 PM',
+                ),
               ],
             ),
           ),
@@ -212,11 +225,11 @@ class _PresentSimplePageState extends State<PresentSimplePage>
             title: 'Tasdiq gapi (+)',
             content: Column(
               children: [
-                _buildFormulaBox('Subject + Verb + Object'),
+                _buildFormulaBox('Subject + was/were + Verb-ing'),
                 SizedBox(height: 12),
-                _buildStructureExample('I', 'work', 'at home'),
-                _buildStructureExample('She', 'studies', 'English'),
-                _buildStructureExample('They', 'play', 'football'),
+                _buildStructureExample('I', 'was working', 'at home'),
+                _buildStructureExample('She', 'was studying', 'English'),
+                _buildStructureExample('They', 'were playing', 'football'),
               ],
             ),
           ),
@@ -226,11 +239,13 @@ class _PresentSimplePageState extends State<PresentSimplePage>
             title: 'Inkor gapi (-)',
             content: Column(
               children: [
-                _buildFormulaBox('Subject + don\'t/doesn\'t + Verb + Object'),
+                _buildFormulaBox(
+                  'Subject + did not (did\'t) + Verb (base form) + Object',
+                ),
                 SizedBox(height: 12),
-                _buildStructureExample('I', "don't work", 'at home'),
-                _buildStructureExample('She', "doesn't study", 'English'),
-                _buildStructureExample('They', "don't play", 'football'),
+                _buildStructureExample('I', "didn't work", 'at home'),
+                _buildStructureExample('She', "didn't study", 'English'),
+                _buildStructureExample('They', "didn't play", 'football'),
               ],
             ),
           ),
@@ -240,11 +255,11 @@ class _PresentSimplePageState extends State<PresentSimplePage>
             title: 'Savol gapi (?)',
             content: Column(
               children: [
-                _buildFormulaBox('Do/Does + Subject + Verb + Object?'),
+                _buildFormulaBox('Did + Subject + Verb (base form) + Object?'),
                 SizedBox(height: 12),
-                _buildStructureExample('Do', 'I work', 'at home?'),
-                _buildStructureExample('Does', 'she study', 'English?'),
-                _buildStructureExample('Do', 'they play', 'football?'),
+                _buildStructureExample('Did', 'I work', 'at home?'),
+                _buildStructureExample('Did', 'she study', 'English?'),
+                _buildStructureExample('Did', 'they play', 'football?'),
               ],
             ),
           ),
@@ -353,7 +368,7 @@ class _PresentSimplePageState extends State<PresentSimplePage>
                     border: Border.all(color: Colors.blue[200]!),
                   ),
                   child: Text(
-                    'He _____ football every weekend.',
+                    'She was __ food',
                     style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
                   ),
                 ),
@@ -633,7 +648,7 @@ class _PresentSimplePageState extends State<PresentSimplePage>
   }
 
   void _checkQuizAnswer() {
-    bool isCorrect = _quizAnswer.toLowerCase().trim() == 'plays';
+    bool isCorrect = _quizAnswer.toLowerCase().trim() == 'making';
     setState(() {
       _isQuizCorrect = isCorrect;
       _showQuizResult = true;
@@ -672,7 +687,7 @@ class _PresentSimplePageState extends State<PresentSimplePage>
                 ),
                 if (!_isQuizCorrect)
                   Text(
-                    'To\'g\'ri javob: "plays"',
+                    'To\'g\'ri javob: "making"',
                     style: TextStyle(color: Colors.grey[600]),
                   ),
               ],

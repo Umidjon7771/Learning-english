@@ -45,40 +45,9 @@ class ProfileScreen extends StatelessWidget {
                         fontWeight: FontWeight.bold,
                       ),
                     ),
-                    Text(
-                      'Intermediate Level',
-                      style: TextStyle(color: Colors.white70, fontSize: 16),
-                    ),
                   ],
                 ),
               ),
-
-              // Stats
-              Container(
-                margin: EdgeInsets.symmetric(horizontal: 20),
-                padding: EdgeInsets.all(20),
-                decoration: BoxDecoration(
-                  color: Colors.white,
-                  borderRadius: BorderRadius.circular(20),
-                  boxShadow: [
-                    BoxShadow(
-                      color: Colors.black.withOpacity(0.1),
-                      blurRadius: 10,
-                      offset: Offset(0, 5),
-                    ),
-                  ],
-                ),
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceAround,
-                  children: [
-                    _buildStatColumn('Kunlar', '125'),
-                    _buildStatColumn('XP', '15,240'),
-                    _buildStatColumn('Rank', '#47'),
-                  ],
-                ),
-              ),
-
-              SizedBox(height: 20),
 
               // Menu Items
               Expanded(
@@ -91,6 +60,7 @@ class ProfileScreen extends StatelessWidget {
                     ),
                   ),
                   child: ListView(
+                    physics: BouncingScrollPhysics(),
                     padding: EdgeInsets.all(20),
                     children: [
                       _buildMenuItem(

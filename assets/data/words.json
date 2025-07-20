@@ -7,13 +7,6 @@
     "difficulty": "medium"
   },
   {
-    "word": "abbey",
-    "translation": "monastir, ibodatxona",
-    "example": "The old abbey was built in 1200.",
-    "translation_example": "Eski monastir 1200-yilda qurilgan.",
-    "difficulty": "hard"
-  },
-  {
     "word": "abbreviate",
     "translation": "qisqartirmoq",
     "example": "Please abbreviate your name.",
@@ -3582,5 +3575,1328 @@
     "example": "His abrasive manner annoyed people.",
     "translation_example": "Uning qo‘pol uslubi odamlarni bezovta qildi.",
     "difficulty": "medium"
+  },
+  {
+    "word": "babe",
+    "translation": "go'dak, chaqaloq",
+    "example": "The babe was sleeping peacefully.",
+    "translation_example": "Go'dak tinchgina uxlayotgan edi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "babes",
+    "translation": "go'daklar, chaqaloqlar",
+    "example": "The nursery was full of babes.",
+    "translation_example": "Bolalar xonasida go'daklar to'la edi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "babies",
+    "translation": "chaqaloqlar",
+    "example": "Babies need constant care.",
+    "translation_example": "Chaqaloqlar doimiy parvarishga muhtoj.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "baby",
+    "translation": "chaqaloq, go'dak",
+    "example": "She held the baby in her arms.",
+    "translation_example": "U chaqaloqni quchog‘ida ushlab turdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bachelor",
+    "translation": "bo‘ydoq",
+    "example": "He lived a happy bachelor life.",
+    "translation_example": "U baxtli bo‘ydoq hayot kechirardi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "back",
+    "translation": "orqa, orqaga",
+    "example": "He turned back quickly.",
+    "translation_example": "U tezda orqaga burildi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "backed",
+    "translation": "qo‘llab-quvvatladi",
+    "example": "He backed his friend in the argument.",
+    "translation_example": "U bahsda do‘stini qo‘llab-quvvatladi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "background",
+    "translation": "fon, kelib chiqish",
+    "example": "Her background helped her get the job.",
+    "translation_example": "Uning kelib chiqishi ish topishda yordam berdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "backgrounds",
+    "translation": "fonlar, kelib chiqishlar",
+    "example": "They came from different backgrounds.",
+    "translation_example": "Ular turli kelib chiqishdan kelishgan edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "backing",
+    "translation": "qo‘llab-quvvatlash",
+    "example": "The project had strong backing.",
+    "translation_example": "Loyiha kuchli qo‘llab-quvvatlashga ega edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bacon",
+    "translation": "tuzlangan cho‘chqa goshti",
+    "example": "He had eggs and bacon for breakfast.",
+    "translation_example": "U nonushtaga tuxum va cho‘chqa goshti yedi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bacteria",
+    "translation": "bakteriyalar",
+    "example": "Bacteria can cause illness.",
+    "translation_example": "Bakteriyalar kasallik keltirib chiqarishi mumkin.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bacterial",
+    "translation": "bakterial",
+    "example": "He was treated for a bacterial infection.",
+    "translation_example": "U bakterial infeksiya uchun davolandi.",
+    "difficulty": "hard"
+  },
+  {
+    "word": "bad",
+    "translation": "yomon",
+    "example": "The weather is bad today.",
+    "translation_example": "Bugun ob-havo yomon.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "badge",
+    "translation": "nishon, belgi",
+    "example": "He wore a police badge.",
+    "translation_example": "U politsiya nishonini taqib olgan edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "badly",
+    "translation": "yomon, og‘ir",
+    "example": "He was badly injured.",
+    "translation_example": "U og‘ir jarohat oldi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bag",
+    "translation": "sumka, xalta",
+    "example": "She packed her bag.",
+    "translation_example": "U sumkasini joyladi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "baghdad",
+    "translation": "Bag'dod (shahar)",
+    "example": "Baghdad is the capital of Iraq.",
+    "translation_example": "Bag'dod Iroqning poytaxti.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bags",
+    "translation": "sumkalar",
+    "example": "The bags were full of clothes.",
+    "translation_example": "Sumkalar kiyimlarga to‘la edi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bahamas",
+    "translation": "Bagama orollari",
+    "example": "They traveled to the Bahamas.",
+    "translation_example": "Ular Bagama orollariga sayohat qilishdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bahrain",
+    "translation": "Bahrayn",
+    "example": "Bahrain is a small island country.",
+    "translation_example": "Bahrayn kichik orol davlati.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bailey",
+    "translation": "Bekli (ism yoki joy nomi)",
+    "example": "Bailey is a common surname.",
+    "translation_example": "Bekli keng tarqalgan familiya hisoblanadi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "baker",
+    "translation": "nonvoy",
+    "example": "The baker makes fresh bread daily.",
+    "translation_example": "Nonvoy har kuni yangi non pishiradi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "baking",
+    "translation": "pishirish",
+    "example": "She loves baking cakes.",
+    "translation_example": "U tort pishirishni yaxshi ko‘radi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "balance",
+    "translation": "muvozanat, balans",
+    "example": "He lost his balance.",
+    "translation_example": "U muvozanatini yo‘qotdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "balanced",
+    "translation": "muvozanatli",
+    "example": "She eats a balanced diet.",
+    "translation_example": "U muvozanatli ovqatlanadi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bald",
+    "translation": "kal",
+    "example": "The old man was bald.",
+    "translation_example": "Qariya kal edi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bali",
+    "translation": "Bali (orol)",
+    "example": "They went to Bali for vacation.",
+    "translation_example": "Ular ta’til uchun Bali oroliga borishdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ball",
+    "translation": "shar, to‘p",
+    "example": "He kicked the ball.",
+    "translation_example": "U to‘pni tepdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ballet",
+    "translation": "balet",
+    "example": "She is a ballet dancer.",
+    "translation_example": "U balet raqqosasi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "balloon",
+    "translation": "shar (puflanadigan)",
+    "example": "The balloon flew into the sky.",
+    "translation_example": "Shar osmonga uchib ketdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ballot",
+    "translation": "ovoz berish byulleteni",
+    "example": "He dropped his ballot in the box.",
+    "translation_example": "U byulletenini qutiga tashladi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "balls",
+    "translation": "to‘plar",
+    "example": "The kids played with balls.",
+    "translation_example": "Bolalar to‘plar bilan o‘ynashdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "baltimore",
+    "translation": "Baltimor (shahar)",
+    "example": "Baltimore is a city in Maryland.",
+    "translation_example": "Baltimor Merilenddagi shahar.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ban",
+    "translation": "taqiq",
+    "example": "The ban was lifted last week.",
+    "translation_example": "Taqiq o‘tgan hafta olib tashlandi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "banana",
+    "translation": "banan",
+    "example": "He ate a banana for lunch.",
+    "translation_example": "U tushlikda banan yedi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "band",
+    "translation": "guruh, lenta",
+    "example": "The band played loud music.",
+    "translation_example": "Guruh baland musiqa chaldi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bands",
+    "translation": "guruhlar, lentalar",
+    "example": "Many bands performed at the concert.",
+    "translation_example": "Ko‘plab guruhlar kontsertda chiqish qildi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bandwidth",
+    "translation": "tarmoq kengligi",
+    "example": "The video needed high bandwidth.",
+    "translation_example": "Video yuqori tarmoq kengligini talab qildi.",
+    "difficulty": "hard"
+  },
+  {
+    "word": "bang",
+    "translation": "portlash, zarba",
+    "example": "There was a loud bang outside.",
+    "translation_example": "Tashqarida kuchli portlash bo‘ldi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bangbus",
+    "translation": "Bangbus (video nomi, kontekstga ehtiyot bo‘ling)",
+    "example": "He searched for Bangbus videos.",
+    "translation_example": "U Bangbus videolarini qidirdi.",
+    "difficulty": "hard"
+  },
+  {
+    "word": "bangkok",
+    "translation": "Bangkok (shahar)",
+    "example": "They visited Bangkok last year.",
+    "translation_example": "Ular o‘tgan yili Bangkokni ziyorat qilishdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bangladesh",
+    "translation": "Bangladesh (davlat)",
+    "example": "Bangladesh is in South Asia.",
+    "translation_example": "Bangladesh Janubiy Osiyoda joylashgan.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bank",
+    "translation": "bank",
+    "example": "He opened a bank account.",
+    "translation_example": "U bank hisob raqami ochdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "banking",
+    "translation": "bank ishi",
+    "example": "He works in the banking sector.",
+    "translation_example": "U bank sohasida ishlaydi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bankruptcy",
+    "translation": "kasod, to‘lovga qodir emaslik",
+    "example": "The company declared bankruptcy.",
+    "translation_example": "Kompaniya kasodga uchraganini e’lon qildi.",
+    "difficulty": "hard"
+  },
+  {
+    "word": "banks",
+    "translation": "banklar",
+    "example": "All banks were closed on Sunday.",
+    "translation_example": "Yakshanba kuni barcha banklar yopiq edi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "banned",
+    "translation": "taqiqlangan",
+    "example": "Smoking was banned in public areas.",
+    "translation_example": "Jamoat joylarida chekish taqiqlangan edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "banner",
+    "translation": "banner, e’lon",
+    "example": "A big banner was displayed at the event.",
+    "translation_example": "Tadbirda katta banner osilgan edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "banners",
+    "translation": "bannerlar",
+    "example": "The website had many banners.",
+    "translation_example": "Saytda ko‘plab bannerlar bor edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bar",
+    "translation": "bar, to‘siq",
+    "example": "They met at the bar.",
+    "translation_example": "Ular barda uchrashishdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "barbados",
+    "translation": "Barbados (davlat)",
+    "example": "Barbados is a beautiful island.",
+    "translation_example": "Barbados go'zal oroldir.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "barbara",
+    "translation": "Barbara (ism)",
+    "example": "Barbara is my friend.",
+    "translation_example": "Barbara mening do'stim.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "barbie",
+    "translation": "Barbie (o'yinchoq)",
+    "example": "She plays with her Barbie doll.",
+    "translation_example": "U Barbie qo'g'irchog'i bilan o'ynaydi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "barcelona",
+    "translation": "Barselona (shahar)",
+    "example": "Barcelona is in Spain.",
+    "translation_example": "Barselona Ispaniyada joylashgan.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bare",
+    "translation": "yalang'och, bo'sh",
+    "example": "The room was bare.",
+    "translation_example": "Xona bo'sh edi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "barely",
+    "translation": "zo'rg'a, deyarli",
+    "example": "I barely know him.",
+    "translation_example": "Men uni deyarli tanimayman.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bargain",
+    "translation": "arzon narsa, kelishuv",
+    "example": "This is a good bargain.",
+    "translation_example": "Bu yaxshi kelishuv.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bargains",
+    "translation": "arzon narsalar",
+    "example": "I found many bargains at the store.",
+    "translation_example": "Do'konda ko'p arzon narsalar topdim.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "barn",
+    "translation": "ombor, qishloq ombori",
+    "example": "The barn is full of hay.",
+    "translation_example": "Ombor pichan bilan to'la.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "barnes",
+    "translation": "Barnes (familiya)",
+    "example": "Mr. Barnes is a teacher.",
+    "translation_example": "Janob Barnes o'qituvchi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "barrel",
+    "translation": "bochka",
+    "example": "The barrel is full of water.",
+    "translation_example": "Bochka suv bilan to'la.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "barrier",
+    "translation": "to'siq, halaqit",
+    "example": "There is a barrier on the road.",
+    "translation_example": "Yo'lda to'siq bor.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "barriers",
+    "translation": "to'siqlar",
+    "example": "We must remove all barriers.",
+    "translation_example": "Biz barcha to'siqlarni olib tashlashimiz kerak.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "barry",
+    "translation": "Barry (ism)",
+    "example": "Barry is a good student.",
+    "translation_example": "Barry yaxshi talaba.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bars",
+    "translation": "barlar, panjara",
+    "example": "The window has iron bars.",
+    "translation_example": "Deraza temir panjaraga ega.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "base",
+    "translation": "asos, baza",
+    "example": "The base of the building is strong.",
+    "translation_example": "Binoning asosi mustahkam.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "baseball",
+    "translation": "beysbol",
+    "example": "He plays baseball every day.",
+    "translation_example": "U har kuni beysbol o'ynaydi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "based",
+    "translation": "asoslangan",
+    "example": "The story is based on real events.",
+    "translation_example": "Hikoya haqiqiy voqealar asosida yozilgan.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "baseline",
+    "translation": "asosiy chiziq",
+    "example": "We need to set a baseline.",
+    "translation_example": "Biz asosiy chiziq belgilashimiz kerak.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "basement",
+    "translation": "yerto'la",
+    "example": "The basement is dark.",
+    "translation_example": "Yerto'la qorong'i.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "basename",
+    "translation": "asosiy nom",
+    "example": "The basename of the file is important.",
+    "translation_example": "Faylning asosiy nomi muhim.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bases",
+    "translation": "asoslar, bazalar",
+    "example": "The army has many bases.",
+    "translation_example": "Armiyada ko'p bazalar bor.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "basic",
+    "translation": "asosiy, oddiy",
+    "example": "This is basic math.",
+    "translation_example": "Bu asosiy matematika.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "basically",
+    "translation": "asosan, odatda",
+    "example": "Basically, I agree with you.",
+    "translation_example": "Asosan, men siz bilan roziman.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "basics",
+    "translation": "asoslar",
+    "example": "Learn the basics first.",
+    "translation_example": "Avval asoslarni o'rgan.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "basket",
+    "translation": "savat",
+    "example": "The basket is full of apples.",
+    "translation_example": "Savat olma bilan to'la.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "basketball",
+    "translation": "basketbol",
+    "example": "I love playing basketball.",
+    "translation_example": "Men basketbol o'ynashni yaxshi ko'raman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "baskets",
+    "translation": "savatlar",
+    "example": "There are many baskets in the market.",
+    "translation_example": "Bozorda ko'p savatlar bor.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bass",
+    "translation": "bas (musiqa), baliq turi",
+    "example": "He plays the bass guitar.",
+    "translation_example": "U bas gitara chaladi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bat",
+    "translation": "ko'rshapalak, tayoq",
+    "example": "The bat flies at night.",
+    "translation_example": "Ko'rshapalak kechasi uchadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "batch",
+    "translation": "guruh, partiya",
+    "example": "This batch of cookies is delicious.",
+    "translation_example": "Bu guruh pechenye mazali.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bath",
+    "translation": "cho'milish, vanna",
+    "example": "I take a bath every morning.",
+    "translation_example": "Men har kuni ertalab cho'milaman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bathroom",
+    "translation": "hammom, hojatxona",
+    "example": "The bathroom is clean.",
+    "translation_example": "Hammom toza.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "baths",
+    "translation": "cho'milishlar, vannalar",
+    "example": "Hot baths are relaxing.",
+    "translation_example": "Issiq vannalar tinchlantiradi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "batman",
+    "translation": "Batman (qahramon)",
+    "example": "Batman is a superhero.",
+    "translation_example": "Batman super qahramon.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "batteries",
+    "translation": "batareyalar",
+    "example": "The toy needs new batteries.",
+    "translation_example": "O'yinchoqqa yangi batareyalar kerak.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "battery",
+    "translation": "batareya",
+    "example": "My phone battery is low.",
+    "translation_example": "Telefonimning batareyasi kam.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "battle",
+    "translation": "jang, kurash",
+    "example": "The battle lasted for hours.",
+    "translation_example": "Jang soatlarca davom etdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "battlefield",
+    "translation": "jang maydoni",
+    "example": "The battlefield was quiet.",
+    "translation_example": "Jang maydoni jim edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bay",
+    "translation": "ko'rfaz, qo'ltiq",
+    "example": "The bay is very beautiful.",
+    "translation_example": "Ko'rfaz juda chiroyli.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bc",
+    "translation": "miloddan avval",
+    "example": "This happened in 500 BC.",
+    "translation_example": "Bu miloddan avval 500-yilda bo'lgan.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bd",
+    "translation": "tug'ilgan kun",
+    "example": "Happy BD to you!",
+    "translation_example": "Tug'ilgan kuning muborak!",
+    "difficulty": "easy"
+  },
+  {
+    "word": "be",
+    "translation": "bo'lmoq",
+    "example": "I want to be a doctor.",
+    "translation_example": "Men shifokor bo'lishni xohlayman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beach",
+    "translation": "plyaj, qirg'oq",
+    "example": "The beach is crowded today.",
+    "translation_example": "Bugun plyaj gavjum.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beaches",
+    "translation": "plyajlar",
+    "example": "Florida has beautiful beaches.",
+    "translation_example": "Floridada chiroyli plyajlar bor.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beads",
+    "translation": "munchoqlar",
+    "example": "She wears beautiful beads.",
+    "translation_example": "U chiroyli munchoqlar taqadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beam",
+    "translation": "nur, to'sin",
+    "example": "The beam of light is bright.",
+    "translation_example": "Yorug'lik nuri yorqin.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bean",
+    "translation": "loviya",
+    "example": "I like to eat beans.",
+    "translation_example": "Men loviya yeyishni yaxshi ko'raman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beans",
+    "translation": "loviyalar",
+    "example": "Green beans are healthy.",
+    "translation_example": "Yashil loviyalar foydali.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bear",
+    "translation": "ayiq, chidamoq",
+    "example": "The bear is in the forest.",
+    "translation_example": "Ayiq o'rmonda.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bearing",
+    "translation": "yo'nalish, tutum",
+    "example": "What is your bearing on this issue?",
+    "translation_example": "Bu masalaga sizning munosabatingiz qanday?",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bears",
+    "translation": "ayiqlar",
+    "example": "Bears sleep in winter.",
+    "translation_example": "Ayiqlar qishda uxlaydi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beast",
+    "translation": "yirtqich hayvon",
+    "example": "The beast was very dangerous.",
+    "translation_example": "Yirtqich hayvon juda xavfli edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "beat",
+    "translation": "urmoq, mag'lub etmoq",
+    "example": "Don't beat the dog.",
+    "translation_example": "Itni urma.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beatles",
+    "translation": "Beatles (guruh)",
+    "example": "The Beatles were famous.",
+    "translation_example": "Beatles mashhur edi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beats",
+    "translation": "uradi, mag'lub etadi",
+    "example": "My heart beats fast.",
+    "translation_example": "Yuragim tez uradi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beautiful",
+    "translation": "chiroyli, go'zal",
+    "example": "She is very beautiful.",
+    "translation_example": "U juda chiroyli.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beautifully",
+    "translation": "chiroyli tarzda",
+    "example": "She sings beautifully.",
+    "translation_example": "U chiroyli kuylaydi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "beauty",
+    "translation": "go'zallik",
+    "example": "Beauty is in the eye of the beholder.",
+    "translation_example": "Go'zallik ko'ruvchining ko'zida.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "became",
+    "translation": "bo'ldi (o'tmish)",
+    "example": "He became a doctor.",
+    "translation_example": "U shifokor bo'ldi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "because",
+    "translation": "chunki",
+    "example": "I'm happy because it's sunny.",
+    "translation_example": "Men xursandman chunki quyoshli.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "become",
+    "translation": "bo'lmoq",
+    "example": "I want to become a teacher.",
+    "translation_example": "Men o'qituvchi bo'lishni xohlayman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "becomes",
+    "translation": "bo'ladi",
+    "example": "Water becomes ice when frozen.",
+    "translation_example": "Suv muzlaganda muzga aylanadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "becoming",
+    "translation": "bo'layotgan",
+    "example": "He is becoming a good student.",
+    "translation_example": "U yaxshi talaba bo'layotgan.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bed",
+    "translation": "karavot, to'shak",
+    "example": "I sleep in my bed.",
+    "translation_example": "Men karavotimda uxlayman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bedding",
+    "translation": "to'shak buyumlari",
+    "example": "Clean bedding is important.",
+    "translation_example": "Toza to'shak buyumlari muhim.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bedford",
+    "translation": "Bedford (shahar)",
+    "example": "Bedford is a nice town.",
+    "translation_example": "Bedford yaxshi shahar.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bedroom",
+    "translation": "yotoq xona",
+    "example": "My bedroom is small.",
+    "translation_example": "Mening yotoq xonam kichik.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bedrooms",
+    "translation": "yotoq xonalar",
+    "example": "This house has three bedrooms.",
+    "translation_example": "Bu uyda uchta yotoq xona bor.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beds",
+    "translation": "karavotlar",
+    "example": "The hotel has comfortable beds.",
+    "translation_example": "Mehmonxonada qulay karavotlar bor.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bee",
+    "translation": "ari",
+    "example": "The bee makes honey.",
+    "translation_example": "Ari asal yasaydi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beef",
+    "translation": "mol go'shti",
+    "example": "I like beef steak.",
+    "translation_example": "Men mol go'shti bifshteksini yaxshi ko'raman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "been",
+    "translation": "bo'lgan",
+    "example": "I have been to London.",
+    "translation_example": "Men Londonga borgan edim.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beer",
+    "translation": "pivo",
+    "example": "He drinks beer with friends.",
+    "translation_example": "U do'stlari bilan pivo ichadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "before",
+    "translation": "oldin, avval",
+    "example": "Come before 5 o'clock.",
+    "translation_example": "Soat 5 dan oldin kel.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "began",
+    "translation": "boshladi (o'tmish)",
+    "example": "The movie began at 7 PM.",
+    "translation_example": "Film soat 7 da boshlandi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "begin",
+    "translation": "boshlamoq",
+    "example": "Let's begin the lesson.",
+    "translation_example": "Darsni boshlaylik.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beginner",
+    "translation": "yangi boshlovchi",
+    "example": "I am a beginner in English.",
+    "translation_example": "Men ingliz tilida yangi boshlovchiman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beginners",
+    "translation": "yangi boshlovchilar",
+    "example": "This class is for beginners.",
+    "translation_example": "Bu sinf yangi boshlovchilar uchun.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beginning",
+    "translation": "boshlanish",
+    "example": "This is just the beginning.",
+    "translation_example": "Bu faqat boshlanish.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "begins",
+    "translation": "boshlanadi",
+    "example": "School begins in September.",
+    "translation_example": "Maktab sentyabrda boshlanadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "begun",
+    "translation": "boshlangan",
+    "example": "The work has begun.",
+    "translation_example": "Ish boshlangan.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "behalf",
+    "translation": "nomidan",
+    "example": "I speak on behalf of my team.",
+    "translation_example": "Men jamoam nomidan gapiryapman.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "behavior",
+    "translation": "xulq-atvor",
+    "example": "His behavior is good.",
+    "translation_example": "Uning xulq-atvori yaxshi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "behaviour",
+    "translation": "xulq-atvori",
+    "example": "Good behaviour is important.",
+    "translation_example": "Yaxshi xulq-atvori muhim.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "behind",
+    "translation": "orqada, ortida",
+    "example": "The cat is behind the tree.",
+    "translation_example": "Mushuk daraxt ortida.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beijing",
+    "translation": "Pekin (shahar)",
+    "example": "Beijing is the capital of China.",
+    "translation_example": "Pekin Xitoyning poytaxti.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "being",
+    "translation": "mavjudot, bo'layotgan",
+    "example": "Human being needs water.",
+    "translation_example": "Inson mavjudotiga suv kerak.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "beings",
+    "translation": "mavjudotlar",
+    "example": "All living beings need food.",
+    "translation_example": "Barcha tirik mavjudotlarga oziq-ovqat kerak.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "belarus",
+    "translation": "Belarus (davlat)",
+    "example": "Belarus is in Europe.",
+    "translation_example": "Belarus Yevropada.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "belfast",
+    "translation": "Belfast (shahar)",
+    "example": "Belfast is in Northern Ireland.",
+    "translation_example": "Belfast Shimoliy Irlandiyada.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "belgium",
+    "translation": "Belgiya",
+    "example": "Belgium is famous for chocolate.",
+    "translation_example": "Belgiya shokolad bilan mashhur.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "belief",
+    "translation": "ishonch, e'tiqod",
+    "example": "My belief is strong.",
+    "translation_example": "Mening ishonchim kuchli.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "beliefs",
+    "translation": "ishonchlar, e'tiqodlar",
+    "example": "People have different beliefs.",
+    "translation_example": "Odamlarning turli e'tiqodlari bor.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "believe",
+    "translation": "ishonmoq",
+    "example": "I believe in you.",
+    "translation_example": "Men sizga ishonaman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "believed",
+    "translation": "ishondi",
+    "example": "He believed the story.",
+    "translation_example": "U hikoyaga ishondi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "believes",
+    "translation": "ishonadi",
+    "example": "She believes in magic.",
+    "translation_example": "U sehrga ishonadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "belize",
+    "translation": "Beliz (davlat)",
+    "example": "Belize is in Central America.",
+    "translation_example": "Beliz Markaziy Amerikada.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bell",
+    "translation": "qo'ng'iroq",
+    "example": "The bell rings loudly.",
+    "translation_example": "Qo'ng'iroq baland jiringlaydi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "belle",
+    "translation": "go'zal qiz",
+    "example": "She is the belle of the ball.",
+    "translation_example": "U balning eng go'zal qizi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "belly",
+    "translation": "qorin",
+    "example": "My belly is full.",
+    "translation_example": "Mening qornim to'q.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "belong",
+    "translation": "tegishli bo'lmoq",
+    "example": "This book belongs to me.",
+    "translation_example": "Bu kitob menga tegishli.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "below",
+    "translation": "pastda, ostida",
+    "example": "The answer is below.",
+    "translation_example": "Javob pastda.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "belt",
+    "translation": "kamar",
+    "example": "He wears a leather belt.",
+    "translation_example": "U teri kamar taqadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "belts",
+    "translation": "kamarlar",
+    "example": "The store sells many belts.",
+    "translation_example": "Do'kon ko'p kamarlar sotadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ben",
+    "translation": "Ben (ism)",
+    "example": "Ben is my brother.",
+    "translation_example": "Ben mening akam.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bench",
+    "translation": "skameyka",
+    "example": "We sit on the bench.",
+    "translation_example": "Biz skameyakada o'tiramiz.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "benchmark",
+    "translation": "me'yor, standart",
+    "example": "This is our benchmark.",
+    "translation_example": "Bu bizning me'yorimiz.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bend",
+    "translation": "egilmoq, bukmoq",
+    "example": "Don't bend the paper.",
+    "translation_example": "Qog'ozni bukma.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beneath",
+    "translation": "ostida, tagida",
+    "example": "The cat is beneath the table.",
+    "translation_example": "Mushuk stol tagida.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "beneficial",
+    "translation": "foydali",
+    "example": "Exercise is beneficial for health.",
+    "translation_example": "Mashq sog'liq uchun foydali.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "benefit",
+    "translation": "foyda",
+    "example": "What is the benefit of this?",
+    "translation_example": "Bundan qanday foyda?",
+    "difficulty": "medium"
+  },
+  {
+    "word": "benefits",
+    "translation": "foydalar",
+    "example": "There are many benefits.",
+    "translation_example": "Ko'p foydalar bor.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "benjamin",
+    "translation": "Benjamin (ism)",
+    "example": "Benjamin is a good name.",
+    "translation_example": "Benjamin yaxshi ism.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bennett",
+    "translation": "Bennett (familiya)",
+    "example": "Mr. Bennett is our teacher.",
+    "translation_example": "Janob Bennett bizning o'qituvchimiz.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "benz",
+    "translation": "Benz (mashina)",
+    "example": "He drives a Benz.",
+    "translation_example": "U Benz haydaydi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "berkeley",
+    "translation": "Berkeley (shahar)",
+    "example": "Berkeley is in California.",
+    "translation_example": "Berkeley Kaliforniyada.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "berlin",
+    "translation": "Berlin (shahar)",
+    "example": "Berlin is the capital of Germany.",
+    "translation_example": "Berlin Germaniyaning poytaxti.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bermuda",
+    "translation": "Bermuda (orol)",
+    "example": "Bermuda is a beautiful island.",
+    "translation_example": "Bermuda chiroyli orol.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bernard",
+    "translation": "Bernard (ism)",
+    "example": "Bernard is a French name.",
+    "translation_example": "Bernard fransuz ismi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "berry",
+    "translation": "rezvor",
+    "example": "The berry is sweet.",
+    "translation_example": "Rezvor shirin.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beside",
+    "translation": "yonida",
+    "example": "Sit beside me.",
+    "translation_example": "Mening yonimda o'tir.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "besides",
+    "translation": "bundan tashqari",
+    "example": "Besides that, I like music.",
+    "translation_example": "Bundan tashqari, men musiqani yaxshi ko'raman.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "best",
+    "translation": "eng yaxshi",
+    "example": "This is the best book.",
+    "translation_example": "Bu eng yaxshi kitob.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bestsellers",
+    "translation": "eng ko'p sotilgan kitoblar",
+    "example": "These are bestsellers.",
+    "translation_example": "Bular eng ko'p sotilgan kitoblar.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bet",
+    "translation": "tikish, garav",
+    "example": "I bet you are right.",
+    "translation_example": "Ishonchim komilki, siz to'g'ri.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "beta",
+    "translation": "beta (sinov versiyasi)",
+    "example": "This is the beta version.",
+    "translation_example": "Bu beta versiyasi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "beth",
+    "translation": "Beth (ism)",
+    "example": "Beth is a nice girl.",
+    "translation_example": "Beth yaxshi qiz.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "better",
+    "translation": "yaxshiroq",
+    "example": "This is better than that.",
+    "translation_example": "Bu undan yaxshiroq.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "betting",
+    "translation": "tikish",
+    "example": "Betting is not allowed here.",
+    "translation_example": "Bu yerda tikish taqiqlangan.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "betty",
+    "translation": "Betty (ism)",
+    "example": "Betty is my friend.",
+    "translation_example": "Betty mening do'stim.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "between",
+    "translation": "orasida",
+    "example": "I sit between my friends.",
+    "translation_example": "Men do'stlarim orasida o'tiraman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beverage",
+    "translation": "ichimlik",
+    "example": "What beverage do you want?",
+    "translation_example": "Qanday ichimlik xohlaysiz?",
+    "difficulty": "medium"
+  },
+  {
+    "word": "beverly",
+    "translation": "Beverly (ism)",
+    "example": "Beverly lives in California.",
+    "translation_example": "Beverly Kaliforniyada yashaydi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beyond",
+    "translation": "narida, ortida",
+    "example": "Look beyond the mountain.",
+    "translation_example": "Tog' narida qarang.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bhutan",
+    "translation": "Butan (davlat)",
+    "example": "Bhutan is in Asia.",
+    "translation_example": "Butan Osiyoda.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bias",
+    "translation": "noto'g'ri qarash",
+    "example": "Don't show bias in your decision.",
+    "translation_example": "Qaroringizda noto'g'ri qarash ko'rsatmang.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bicycle",
+    "translation": "velosiped",
+    "example": "I ride my bicycle to school.",
+    "translation_example": "Men maktabga velosipedda boraman.",
+    "difficulty": "easy"
   }
 ]

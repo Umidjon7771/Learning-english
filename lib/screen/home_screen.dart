@@ -1,7 +1,9 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:learning_english/screen/grammar/grammar_screen.dart';
 import 'package:learning_english/screen/lesson/lesson_screen.dart';
+import 'package:learning_english/screen/listen_screen.dart';
 import 'package:learning_english/screen/vocabulary_screen.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -49,90 +51,40 @@ class HomeScreen extends StatelessWidget {
                         ],
                       ),
                       Container(
-                        padding: EdgeInsets.all(8),
                         decoration: BoxDecoration(
-                          // color: Colors.white.withOpacity(0.2),
                           color:
                               ColorScheme.of(context).primary.withOpacity(0.2),
                           borderRadius: BorderRadius.circular(12),
                         ),
-                        child: Icon(
-                          Icons.notifications_outlined,
-                          color: Colors.white,
-                          size: 28,
+                        child: IconButton(
+                          onPressed: () {
+                            Navigator.push(
+                              context,
+                              CupertinoPageRoute(
+                                builder: (context) => Scaffold(
+                                  body: Scaffold(
+                                    appBar: AppBar(
+                                      leading: IconButton(
+                                          onPressed: () {
+                                            Navigator.pop(context);
+                                          },
+                                          icon: Icon(Icons.arrow_back_ios)),
+                                    ),
+                                    body: Center(
+                                      child: Text(
+                                          "You do not have any notifications!"),
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            );
+                          },
+                          icon: Icon(
+                            Icons.notifications_outlined,
+                            color: Colors.white,
+                            size: 28,
+                          ),
                         ),
-                      ),
-                    ],
-                  ),
-                ),
-
-                // Progress Card
-                Container(
-                  margin: EdgeInsets.symmetric(horizontal: 20),
-                  padding: EdgeInsets.all(20),
-                  decoration: BoxDecoration(
-                    color: Colors.white,
-                    borderRadius: BorderRadius.circular(20),
-                    boxShadow: [
-                      BoxShadow(
-                        color: Colors.black.withOpacity(0.1),
-                        blurRadius: 10,
-                        offset: Offset(0, 5),
-                      ),
-                    ],
-                  ),
-                  child: Column(
-                    children: [
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: [
-                          Text(
-                            'Kunlik maqsad',
-                            style: TextStyle(
-                              fontSize: 18,
-                              fontWeight: FontWeight.w600,
-                              color: Color(0xFF2C3E50),
-                            ),
-                          ),
-                          Text(
-                            '7/10 dars',
-                            style: TextStyle(
-                              fontSize: 16,
-                              color: Color(0xFF4A90E2),
-                              fontWeight: FontWeight.w500,
-                            ),
-                          ),
-                        ],
-                      ),
-                      SizedBox(height: 15),
-                      LinearProgressIndicator(
-                        value: 0.7,
-                        backgroundColor: Colors.grey[200],
-                        valueColor: AlwaysStoppedAnimation<Color>(
-                          Color(0xFF4A90E2),
-                        ),
-                        minHeight: 8,
-                      ),
-                      SizedBox(height: 15),
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: [
-                          _buildStatItem(
-                            '🔥',
-                            '15',
-                            'Kun ketma-ket',
-                          ),
-                          _buildStatItem(
-                            '⭐',
-                            '1,250',
-                            'XP',
-                          ),
-                          _buildStatItem(
-                            '🏆',
-                            '8',
-                            'Medal',
-                          ),
-                        ],
                       ),
                     ],
                   ),
@@ -166,6 +118,7 @@ class HomeScreen extends StatelessWidget {
                           SizedBox(height: 20),
                           Expanded(
                             child: GridView.count(
+                              physics: BouncingScrollPhysics(),
                               crossAxisCount: 2,
                               crossAxisSpacing: 15,
                               mainAxisSpacing: 15,
@@ -180,7 +133,7 @@ class HomeScreen extends StatelessWidget {
                                   },
                                   emoji: 'assets/icons/books.svg',
                                   title: 'Darslar',
-                                  subtitle: '45 dars',
+                                  // subtitle: '45 dars',
                                   color: Colors.orange,
                                   bgColor: Colors.orange[100]!,
                                 ),
@@ -194,7 +147,7 @@ class HomeScreen extends StatelessWidget {
                                   },
                                   emoji: 'assets/icons/words.svg',
                                   title: 'So\'zlar',
-                                  subtitle: '1,200 so\'z',
+                                  // subtitle: '1,200 so\'z',
                                   color: Colors.green,
                                   bgColor: Colors.green[100]!,
                                 ),
@@ -208,23 +161,29 @@ class HomeScreen extends StatelessWidget {
                                   },
                                   emoji: 'assets/icons/grammar.svg',
                                   title: 'Grammatika',
-                                  subtitle: '28 mavzu',
+                                  // subtitle: '28 mavzu',
                                   color: Colors.purple,
                                   bgColor: Colors.purple[100]!,
                                 ),
                                 _buildCategoryCard(
-                                  onTap: () {},
+                                  onTap: () {
+                                    Navigator.push(
+                                        context,
+                                        CupertinoPageRoute(
+                                            builder: (context) =>
+                                                ListenScreen()));
+                                  },
                                   emoji: 'assets/icons/listening.svg',
                                   title: 'Tinglash',
-                                  subtitle: '30 audio',
+                                  // subtitle: '30 audio',
                                   color: Colors.blue,
                                   bgColor: Colors.blue[100]!,
                                 ),
                                 _buildCategoryCard(
                                   onTap: () {},
-                                  emoji: 'assets/icons/speaking.svg',
-                                  title: 'Gapirish',
-                                  subtitle: '25 mashq',
+                                  emoji: 'assets/icons/writing.svg',
+                                  title: 'Writing',
+                                  // subtitle: '25 mashq',
                                   color: Colors.red,
                                   bgColor: Colors.red[100]!,
                                 ),
@@ -232,7 +191,7 @@ class HomeScreen extends StatelessWidget {
                                   onTap: () {},
                                   emoji: 'assets/icons/reading.svg',
                                   title: 'O\'qish',
-                                  subtitle: '40 matn',
+                                  // subtitle: '40 matn',
                                   color: Colors.teal,
                                   bgColor: Colors.teal[100]!,
                                 ),
@@ -274,7 +233,7 @@ class HomeScreen extends StatelessWidget {
     required VoidCallback onTap,
     required String emoji,
     required String title,
-    required String subtitle,
+    // required String subtitle,
     required Color color,
     required Color bgColor,
   }) {
@@ -306,10 +265,10 @@ class HomeScreen extends StatelessWidget {
                 ),
               ),
               SizedBox(height: 5),
-              Text(
-                subtitle,
-                style: TextStyle(fontSize: 12, color: Colors.grey[600]),
-              ),
+              // Text(
+              //   subtitle,
+              //   style: TextStyle(fontSize: 12, color: Colors.grey[600]),
+              // ),
             ],
           ),
         ),
