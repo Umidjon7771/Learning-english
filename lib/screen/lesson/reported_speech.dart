@@ -39,45 +39,47 @@ class ReportedSpeechPage extends StatelessWidget {
       ),
       body: Padding(
         padding: const EdgeInsets.all(16),
-        child: ListView(
-          physics: BouncingScrollPhysics(),
-          children: [
-            Text(
-              'Reported Speech nima?',
-              style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
-            ),
-            const SizedBox(height: 10),
-            Text(
-              'Reported Speech – bu kimdir aytgan gapni boshqacha shaklda (indirect) yetkazish. Odatda zamonlar o‘zgaradi.',
-              style: TextStyle(fontSize: 16),
-            ),
-            const SizedBox(height: 20),
-            Container(
-              padding: const EdgeInsets.all(16),
-              decoration: BoxDecoration(
-                color: Colors.indigo.shade50,
-                borderRadius: BorderRadius.circular(16),
-                border: Border.all(color: Colors.indigo.shade100),
+        child: SafeArea(
+          child: ListView(
+            physics: BouncingScrollPhysics(),
+            children: [
+              Text(
+                'Reported Speech nima?',
+                style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
               ),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
-                  Text('⏳ Zamon o‘zgarishi:',
-                      style: TextStyle(fontWeight: FontWeight.bold)),
-                  SizedBox(height: 8),
-                  Text(
-                      '• Present ➜ Past\n• will ➜ would\n• can ➜ could\n• now ➜ then\n• today ➜ that day'),
-                ],
+              const SizedBox(height: 10),
+              Text(
+                'Reported Speech – bu kimdir aytgan gapni boshqacha shaklda (indirect) yetkazish. Odatda zamonlar o‘zgaradi.',
+                style: TextStyle(fontSize: 16),
               ),
-            ),
-            const SizedBox(height: 20),
-            Text(
-              'Misollar:',
-              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-            ),
-            const SizedBox(height: 12),
-            ...examples.map((e) => ReportedCard(e)).toList(),
-          ],
+              const SizedBox(height: 20),
+              Container(
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: Colors.indigo.shade50,
+                  borderRadius: BorderRadius.circular(16),
+                  border: Border.all(color: Colors.indigo.shade100),
+                ),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: const [
+                    Text('⏳ Zamon o‘zgarishi:',
+                        style: TextStyle(fontWeight: FontWeight.bold)),
+                    SizedBox(height: 8),
+                    Text(
+                        '• Present ➜ Past\n• will ➜ would\n• can ➜ could\n• now ➜ then\n• today ➜ that day'),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 20),
+              Text(
+                'Misollar:',
+                style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+              ),
+              const SizedBox(height: 12),
+              ...examples.map((e) => ReportedCard(e)).toList(),
+            ],
+          ),
         ),
       ),
     );

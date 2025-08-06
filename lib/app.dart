@@ -20,20 +20,9 @@ class EnglishLearningApp extends StatelessWidget {
           darkTheme: AppTheme.dark,
           title: AppStrings.englishLearning,
           theme: AppTheme.light,
-          home: MainScreen(),
+          home: SplashScreen(),
           debugShowCheckedModeBanner: false,
         );
-
-        // return MaterialApp(
-        //   title: 'Flutter Demo',
-        //   // The Mandy red, light theme.
-        //   theme: lightTheme,
-        //   // The Mandy red, dark theme.
-        //   darkTheme: darkTheme,
-        //   // Use dark or light theme based on system setting.
-        //   themeMode: state ? ThemeMode.dark : ThemeMode.light,
-        //   home: const MainScreen(),
-        // );
       },
     );
   }

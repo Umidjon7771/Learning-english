@@ -4,7 +4,9 @@ import 'package:flutter_svg/svg.dart';
 import 'package:learning_english/screen/grammar/grammar_screen.dart';
 import 'package:learning_english/screen/lesson/lesson_screen.dart';
 import 'package:learning_english/screen/listen_screen.dart';
+import 'package:learning_english/screen/reading_page.dart';
 import 'package:learning_english/screen/vocabulary_screen.dart';
+import 'package:learning_english/screen/writing_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -36,7 +38,8 @@ class HomeScreen extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
-                            'Salom, username!',
+                            // 'Salom, username!',
+                            'Learn English with us',
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 24,
@@ -180,7 +183,14 @@ class HomeScreen extends StatelessWidget {
                                   bgColor: Colors.blue[100]!,
                                 ),
                                 _buildCategoryCard(
-                                  onTap: () {},
+                                  onTap: () {
+                                    Navigator.push(
+                                      context,
+                                      CupertinoPageRoute(
+                                        builder: (context) => WritingScreen(),
+                                      ),
+                                    );
+                                  },
                                   emoji: 'assets/icons/writing.svg',
                                   title: 'Writing',
                                   // subtitle: '25 mashq',
@@ -188,7 +198,14 @@ class HomeScreen extends StatelessWidget {
                                   bgColor: Colors.red[100]!,
                                 ),
                                 _buildCategoryCard(
-                                  onTap: () {},
+                                  onTap: () {
+                                    Navigator.push(
+                                      context,
+                                      CupertinoPageRoute(
+                                        builder: (context) => ReadingPage(),
+                                      ),
+                                    );
+                                  },
                                   emoji: 'assets/icons/reading.svg',
                                   title: 'O\'qish',
                                   // subtitle: '40 matn',

@@ -4893,10 +4893,2679 @@
     "difficulty": "medium"
   },
   {
-    "word": "bicycle",
+    "word": "bicycle", 
     "translation": "velosiped",
     "example": "I ride my bicycle to school.",
     "translation_example": "Men maktabga velosipedda boraman.",
     "difficulty": "easy"
+  },
+   {
+    "word": "call",
+    "translation": "qo‘ng‘iroq qilmoq",
+    "example": "I will call you tonight.",
+    "translation_example": "Men sizga bugun kechqurun qo‘ng‘iroq qilaman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "calm",
+    "translation": "tinch",
+    "example": "Try to stay calm during the test.",
+    "translation_example": "Imtihon vaqtida tinch bo‘lishga harakat qiling.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "camera",
+    "translation": "kamera",
+    "example": "She bought a new camera.",
+    "translation_example": "U yangi kamera sotib oldi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "campaign",
+    "translation": "kampaniya",
+    "example": "The campaign was successful.",
+    "translation_example": "Kampaniya muvaffaqiyatli bo‘ldi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "cancel",
+    "translation": "bekor qilmoq",
+    "example": "They canceled the meeting.",
+    "translation_example": "Ular uchrashuvni bekor qilishdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "capital",
+    "translation": "poytaxt",
+    "example": "Tashkent is the capital of Uzbekistan.",
+    "translation_example": "Toshkent O‘zbekistonning poytaxti.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "capture",
+    "translation": "qo‘lga olmoq",
+    "example": "They tried to capture the thief.",
+    "translation_example": "Ular o‘g‘rini qo‘lga olishga harakat qilishdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "career",
+    "translation": "kasb yo‘li",
+    "example": "He chose a career in medicine.",
+    "translation_example": "U tibbiyot sohasida kasb yo‘lini tanladi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "carry",
+    "translation": "ko‘tarmoq",
+    "example": "I carry a bag every day.",
+    "translation_example": "Men har kuni sumka ko‘taraman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "case",
+    "translation": "holat",
+    "example": "This is a special case.",
+    "translation_example": "Bu maxsus holat.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "cash",
+    "translation": "naqd pul",
+    "example": "Do you have cash with you?",
+    "translation_example": "Yaningizda naqd pul bormi?",
+    "difficulty": "easy"
+  },
+  {
+    "word": "cause",
+    "translation": "sabab",
+    "example": "What is the cause of the problem?",
+    "translation_example": "Muammoning sababi nima?",
+    "difficulty": "medium"
+  },
+  {
+    "word": "celebrate",
+    "translation": "nishonlamoq",
+    "example": "We celebrate New Year together.",
+    "translation_example": "Biz Yangi yilni birga nishonlaymiz.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "center",
+    "translation": "markaz",
+    "example": "The shopping center is nearby.",
+    "translation_example": "Savdo markazi yaqin joyda.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "century",
+    "translation": "asr",
+    "example": "We are living in the 21st century.",
+    "translation_example": "Biz 21-asrda yashayapmiz.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "certain",
+    "translation": "aniq",
+    "example": "I am certain about my choice.",
+    "translation_example": "Men tanlovim haqida aniqman.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "chain",
+    "translation": "zanjir",
+    "example": "She wore a gold chain.",
+    "translation_example": "U oltin zanjir taqdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "chair",
+    "translation": "stul",
+    "example": "Sit on the chair.",
+    "translation_example": "Stulga o‘tiring.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "challenge",
+    "translation": "qiyinchilik",
+    "example": "He accepted the challenge.",
+    "translation_example": "U qiyinchilikni qabul qildi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "chance",
+    "translation": "imkoniyat",
+    "example": "Give me another chance.",
+    "translation_example": "Menga yana bir imkoniyat bering.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "change",
+    "translation": "o‘zgartirmoq",
+    "example": "You need to change your clothes.",
+    "translation_example": "Sen kiyimingni almashtirishing kerak.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "chapter",
+    "translation": "bob",
+    "example": "I finished reading the chapter.",
+    "translation_example": "Men bobni o‘qib tugatdim.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "charge",
+    "translation": "to‘lov / quvvatlamoq",
+    "example": "I need to charge my phone.",
+    "translation_example": "Men telefonimni quvvatlashim kerak.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "check",
+    "translation": "tekshirmoq",
+    "example": "Check your email regularly.",
+    "translation_example": "E-pochtangizni muntazam tekshiring.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "child",
+    "translation": "bola",
+    "example": "The child is sleeping.",
+    "translation_example": "Bola uxlayapti.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "choice",
+    "translation": "tanlov",
+    "example": "It's your choice.",
+    "translation_example": "Bu sening tanloving.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "church",
+    "translation": "cherkov",
+    "example": "The church is very old.",
+    "translation_example": "Cherkov juda qadimiy.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "circle",
+    "translation": "doira",
+    "example": "Draw a circle on the paper.",
+    "translation_example": "Qog‘ozga doira chizing.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "city",
+    "translation": "shahar",
+    "example": "I live in a big city.",
+    "translation_example": "Men katta shaharda yashayman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "class",
+    "translation": "sinf / dars",
+    "example": "Our class starts at 9 am.",
+    "translation_example": "Bizning darsimiz soat 9:00 da boshlanadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "clean",
+    "translation": "toza / tozalamoq",
+    "example": "Please clean your room.",
+    "translation_example": "Iltimos, xonangizni tozalang.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "clear",
+    "translation": "aniq / ravshan",
+    "example": "The instructions were clear.",
+    "translation_example": "Ko‘rsatmalar aniq edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "climb",
+    "translation": "tirmashmoq",
+    "example": "We climbed the mountain.",
+    "translation_example": "Biz tog‘ga tirmashdik.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "clock",
+    "translation": "soat",
+    "example": "The clock is ticking.",
+    "translation_example": "Soat ishlayapti.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "close",
+    "translation": "yopmoq / yaqin",
+    "example": "Please close the door.",
+    "translation_example": "Iltimos, eshikni yoping.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "cloud",
+    "translation": "bulut",
+    "example": "There is a cloud in the sky.",
+    "translation_example": "Osmonda bulut bor.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "club",
+    "translation": "klub",
+    "example": "He joined a chess club.",
+    "translation_example": "U shaxmat klubiga qo‘shildi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "coach",
+    "translation": "murabbiy",
+    "example": "The coach gave us advice.",
+    "translation_example": "Murabbiy bizga maslahat berdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "cold",
+    "translation": "sovuq",
+    "example": "It is very cold today.",
+    "translation_example": "Bugun juda sovuq.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "collect",
+    "translation": "to‘plamoq",
+    "example": "He collects old coins.",
+    "translation_example": "U eski tangalarni to‘playdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "college",
+    "translation": "kollej",
+    "example": "She studies at college.",
+    "translation_example": "U kollejda o‘qiydi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "color",
+    "translation": "rang",
+    "example": "What is your favorite color?",
+    "translation_example": "Sevimli rangingiz qanday?",
+    "difficulty": "easy"
+  },
+  {
+    "word": "come",
+    "translation": "kelmoq",
+    "example": "Please come in.",
+    "translation_example": "Iltimos, ichkariga kiring.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "comfort",
+    "translation": "qulaylik",
+    "example": "This chair gives me comfort.",
+    "translation_example": "Bu stul menga qulaylik beradi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "common",
+    "translation": "odatiy / umumiy",
+    "example": "That is a common mistake.",
+    "translation_example": "Bu odatiy xato.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "company",
+    "translation": "kompaniya",
+    "example": "He works for a big company.",
+    "translation_example": "U katta kompaniyada ishlaydi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "compare",
+    "translation": "taqqoslamoq",
+    "example": "Let's compare the two phones.",
+    "translation_example": "Keling, ikki telefonni taqqoslaylik.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "complete",
+    "translation": "to‘liq / tugatmoq",
+    "example": "Please complete the form.",
+    "translation_example": "Iltimos, formani to‘ldiring.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "computer",
+    "translation": "kompyuter",
+    "example": "I use my computer every day.",
+    "translation_example": "Men har kuni kompyuterdan foydalanaman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "concentrate",
+    "translation": "diqqatni jamlamoq",
+    "example": "You need to concentrate on your work.",
+    "translation_example": "Siz ishga diqqatni jamlashingiz kerak.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "concern",
+    "translation": "xavotir / tashvish",
+    "example": "There is a concern about safety.",
+    "translation_example": "Xavfsizlik borasida tashvish bor.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "conclude",
+    "translation": "xulosa qilmoq",
+    "example": "We can conclude that he was right.",
+    "translation_example": "Biz u haq edi degan xulosaga kela olamiz.",
+    "difficulty": "hard"
+  },
+  {
+    "word": "condition",
+    "translation": "shart / holat",
+    "example": "The car is in good condition.",
+    "translation_example": "Mashina yaxshi holatda.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "conference",
+    "translation": "anjuman",
+    "example": "She attended a medical conference.",
+    "translation_example": "U tibbiy anjumanda qatnashdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "confidence",
+    "translation": "ishonch",
+    "example": "He has a lot of confidence.",
+    "translation_example": "Uda katta ishonch bor.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "confirm",
+    "translation": "tasdiqlamoq",
+    "example": "Please confirm your email.",
+    "translation_example": "Iltimos, emailingizni tasdiqlang.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "confuse",
+    "translation": "adash(tir)moq",
+    "example": "The question confused me.",
+    "translation_example": "Savol meni adashtirdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "connect",
+    "translation": "ulamoq",
+    "example": "Connect your phone to Wi-Fi.",
+    "translation_example": "Telefoningizni Wi-Fi'ga ulang.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "conscious",
+    "translation": "ongli / hushyor",
+    "example": "He was conscious during the operation.",
+    "translation_example": "U operatsiya davomida hushyor edi.",
+    "difficulty": "hard"
+  },
+  {
+    "word": "consider",
+    "translation": "ko‘rib chiqmoq",
+    "example": "I will consider your offer.",
+    "translation_example": "Men taklifingizni ko‘rib chiqaman.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "contact",
+    "translation": "aloqa / bog‘lanmoq",
+    "example": "Please contact me later.",
+    "translation_example": "Iltimos, keyinroq menga bog‘laning.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "contain",
+    "translation": "o‘z ichiga olmoq",
+    "example": "This bottle contains water.",
+    "translation_example": "Bu shisha suvni o‘z ichiga oladi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "content",
+    "translation": "mazmun / tarkib",
+    "example": "The book’s content is useful.",
+    "translation_example": "Kitobning mazmuni foydali.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "continue",
+    "translation": "davom ettirmoq",
+    "example": "Please continue your speech.",
+    "translation_example": "Iltimos, nutqingizni davom ettiring.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "contract",
+    "translation": "shartnoma",
+    "example": "I signed a new contract.",
+    "translation_example": "Men yangi shartnoma imzoladim.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "control",
+    "translation": "nazorat / boshqarmoq",
+    "example": "You must control your anger.",
+    "translation_example": "Siz g‘azabinggizni nazorat qilishingiz kerak.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "convenient",
+    "translation": "qulay",
+    "example": "This time is convenient for me.",
+    "translation_example": "Bu vaqt men uchun qulay.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "conversation",
+    "translation": "suhbat",
+    "example": "We had a long conversation.",
+    "translation_example": "Biz uzoq suhbatlashdik.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "cook",
+    "translation": "oshpaz / pishirmoq",
+    "example": "I like to cook Italian food.",
+    "translation_example": "Men italyan taomlarini pishirishni yoqtiraman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "cool",
+    "translation": "salqin / zo‘r",
+    "example": "The weather is cool today.",
+    "translation_example": "Bugun havo salqin.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "copy",
+    "translation": "nusxa / ko‘chirmoq",
+    "example": "Please copy this file.",
+    "translation_example": "Iltimos, bu faylni ko‘chiring.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "corner",
+    "translation": "burchak",
+    "example": "The shop is on the corner.",
+    "translation_example": "Do‘kon burchakda joylashgan.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "correct",
+    "translation": "to‘g‘ri / tuzatmoq",
+    "example": "Is this answer correct?",
+    "translation_example": "Bu javob to‘g‘rimi?",
+    "difficulty": "easy"
+  },
+  {
+    "word": "cost",
+    "translation": "narx / turmoq",
+    "example": "How much does it cost?",
+    "translation_example": "Bu qancha turadi?",
+    "difficulty": "easy"
+  },
+  {
+    "word": "could",
+    "translation": "qilolardi / mumkin edi",
+    "example": "I could help you yesterday.",
+    "translation_example": "Men kecha sizga yordam bera olardim.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "count",
+    "translation": "hisoblamoq",
+    "example": "Can you count to ten?",
+    "translation_example": "Ongacha sanay olasizmi?",
+    "difficulty": "easy"
+  },
+  {
+    "word": "country",
+    "translation": "mamlakat",
+    "example": "My country is Uzbekistan.",
+    "translation_example": "Mening mamlakatim O‘zbekiston.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "course",
+    "translation": "kurs / yo‘nalish",
+    "example": "I am taking an English course.",
+    "translation_example": "Men ingliz tili kursida qatnashayapman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "cover",
+    "translation": "yopmoq / qoplamoq",
+    "example": "Please cover the food.",
+    "translation_example": "Iltimos, ovqatni yoping.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "create",
+    "translation": "yaratmoq",
+    "example": "She created a beautiful painting.",
+    "translation_example": "U chiroyli rasm yaratdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "credit",
+    "translation": "kredit / ishonch",
+    "example": "He paid by credit card.",
+    "translation_example": "U kredit karta bilan to‘ladi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "crime",
+    "translation": "jinoyat",
+    "example": "He was arrested for a crime.",
+    "translation_example": "U jinoyat uchun hibsga olindi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "cross",
+    "translation": "kesib o‘tmoq / xoch",
+    "example": "Look both ways before you cross.",
+    "translation_example": "Kesib o‘tishdan oldin ikki tomonga qarang.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "crowd",
+    "translation": "olomon",
+    "example": "The crowd was very large.",
+    "translation_example": "Olomon juda katta edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "crush",
+    "translation": "ezib tashlamoq / mayda qilmoq",
+    "example": "Don’t crush the bread.",
+    "translation_example": "Nonni ezmang.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "cry",
+    "translation": "yig‘lamoq",
+    "example": "The baby started to cry.",
+    "translation_example": "Bola yig‘lay boshladi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "culture",
+    "translation": "madaniyat",
+    "example": "I enjoy learning about new cultures.",
+    "translation_example": "Men yangi madaniyatlar haqida o‘rganishni yoqtiraman.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "cup",
+    "translation": "kosa / piyola",
+    "example": "I drank a cup of tea.",
+    "translation_example": "Men bir piyola choy ichdim.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "curious",
+    "translation": "qiziqqan",
+    "example": "Children are always curious.",
+    "translation_example": "Bolalar har doim qiziqqon bo‘ladi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "current",
+    "translation": "joriy / hozirgi",
+    "example": "What is your current address?",
+    "translation_example": "Sizning joriy manzilingiz qanday?",
+    "difficulty": "medium"
+  },
+  {
+    "word": "custom",
+    "translation": "urfdod",
+    "example": "This is a local custom.",
+    "translation_example": "Bu mahalliy urfdod.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "cut",
+    "translation": "kesmoq",
+    "example": "He cut the paper.",
+    "translation_example": "U qog‘ozni kesdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "cycle",
+    "translation": "velosiped / aylanish",
+    "example": "He rides his cycle to work.",
+    "translation_example": "U ishga velosipedda boradi.",
+    "difficulty": "easy"
+  },
+  
+  {
+    "word": "dad",
+    "translation": "ota",
+    "example": "My dad is a teacher.",
+    "translation_example": "Mening otam o‘qituvchi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "daily",
+    "translation": "har kuni",
+    "example": "She goes for a walk daily.",
+    "translation_example": "U har kuni sayrga chiqadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "damage",
+    "translation": "zarar",
+    "example": "The storm caused a lot of damage.",
+    "translation_example": "Bo‘ron katta zarar yetkazdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dance",
+    "translation": "raqsga tushmoq",
+    "example": "They love to dance.",
+    "translation_example": "Ular raqsga tushishni yaxshi ko‘rishadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "danger",
+    "translation": "xavf",
+    "example": "He is in great danger.",
+    "translation_example": "U katta xavf ostida.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dark",
+    "translation": "qorong‘i",
+    "example": "It’s too dark to see anything.",
+    "translation_example": "Hech narsa ko‘rinmaydigan darajada qorong‘i.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "data",
+    "translation": "ma’lumotlar",
+    "example": "We need more data for the research.",
+    "translation_example": "Tadqiqot uchun ko‘proq ma’lumot kerak.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "date",
+    "translation": "sana",
+    "example": "What’s today’s date?",
+    "translation_example": "Bugungi sana nima?",
+    "difficulty": "easy"
+  },
+  {
+    "word": "daughter",
+    "translation": "qiz farzand",
+    "example": "He has one daughter.",
+    "translation_example": "Uning bir qizi bor.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "day",
+    "translation": "kun",
+    "example": "I had a good day.",
+    "translation_example": "Men yaxshi kun o‘tkazdim.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "dead",
+    "translation": "o‘lik / o‘lgan",
+    "example": "The battery is dead.",
+    "translation_example": "Batareya o‘chgan.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "deal",
+    "translation": "kelishuv / hal qilmoq",
+    "example": "Let’s make a deal.",
+    "translation_example": "Keling, kelishuv qilaylik.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dear",
+    "translation": "aziz / qadrli",
+    "example": "My dear friend is coming.",
+    "translation_example": "Aziz do‘stim kelayapti.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "death",
+    "translation": "o‘lim",
+    "example": "His death was sudden.",
+    "translation_example": "Uning o‘limi kutilmagan edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "decide",
+    "translation": "qaror qilmoq",
+    "example": "I can’t decide what to wear.",
+    "translation_example": "Qanday kiyinishni hal qila olmayapman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "decision",
+    "translation": "qaror",
+    "example": "It was a hard decision.",
+    "translation_example": "Bu qiyin qaror edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "deep",
+    "translation": "chuqur",
+    "example": "The water is very deep here.",
+    "translation_example": "Bu yerda suv juda chuqur.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "defeat",
+    "translation": "mag‘lubiyat / mag‘lub etmoq",
+    "example": "They suffered a heavy defeat.",
+    "translation_example": "Ular og‘ir mag‘lubiyatga uchradi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "defend",
+    "translation": "himoya qilmoq",
+    "example": "Soldiers defend the country.",
+    "translation_example": "Askarlar mamlakatni himoya qilishadi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "define",
+    "translation": "ta’rif bermoq",
+    "example": "Can you define this word?",
+    "translation_example": "Bu so‘zga ta’rif bera olasizmi?",
+    "difficulty": "medium"
+  },
+  {
+    "word": "degree",
+    "translation": "daraja",
+    "example": "He has a degree in engineering.",
+    "translation_example": "U muhandislik bo‘yicha diplomga ega.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "delay",
+    "translation": "kechikish",
+    "example": "There was a delay in the flight.",
+    "translation_example": "Reysda kechikish bo‘ldi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "deliver",
+    "translation": "yetkazib bermoq",
+    "example": "They deliver food to your house.",
+    "translation_example": "Ular ovqatni uyingizga yetkazishadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "demand",
+    "translation": "talab qilmoq",
+    "example": "They demand better working conditions.",
+    "translation_example": "Ular yaxshiroq ish sharoitlarini talab qilishmoqda.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "deny",
+    "translation": "inkor qilmoq",
+    "example": "He denied the accusations.",
+    "translation_example": "U ayblovlarni inkor qildi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "depend",
+    "translation": "bog‘liq bo‘lmoq",
+    "example": "It depends on the weather.",
+    "translation_example": "Bu ob-havoga bog‘liq.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "describe",
+    "translation": "ta’riflamoq",
+    "example": "Can you describe the scene?",
+    "translation_example": "Ssenariyga ta’rif bera olasizmi?",
+    "difficulty": "easy"
+  },
+  {
+    "word": "design",
+    "translation": "dizayn / loyihalamoq",
+    "example": "She designed this dress.",
+    "translation_example": "Bu ko‘ylakni u loyihalagan.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "desire",
+    "translation": "istak / xohish",
+    "example": "He has a strong desire to succeed.",
+    "translation_example": "U muvaffaqiyatga erishishni juda istaydi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "desk",
+    "translation": "stol",
+    "example": "Put your book on the desk.",
+    "translation_example": "Kitobni stol ustiga qo‘y.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "destroy",
+    "translation": "yo‘q qilmoq",
+    "example": "The fire destroyed the building.",
+    "translation_example": "Yong‘in binoni yo‘q qildi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "detail",
+    "translation": "tafsilot / batafsil ma’lumot",
+    "example": "Tell me every detail.",
+    "translation_example": "Har bir tafsilotni ayting.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "develop",
+    "translation": "rivojlantirmoq",
+    "example": "He wants to develop a new app.",
+    "translation_example": "U yangi ilova yaratmoqchi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "device",
+    "translation": "qurilma",
+    "example": "This device is very useful.",
+    "translation_example": "Bu qurilma juda foydali.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "devote",
+    "translation": "bag‘ishlamoq",
+    "example": "She devotes her time to studying.",
+    "translation_example": "U vaqtini o‘qishga bag‘ishlaydi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dialogue",
+    "translation": "muloqot",
+    "example": "The movie has interesting dialogue.",
+    "translation_example": "Filmda qiziqarli muloqot bor.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "die",
+    "translation": "o‘lmoq",
+    "example": "Plants die without water.",
+    "translation_example": "O‘simliklar suv bo‘lmasa o‘ladi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "difference",
+    "translation": "farq",
+    "example": "What’s the difference between them?",
+    "translation_example": "Ular orasidagi farq nima?",
+    "difficulty": "easy"
+  },
+  {
+    "word": "difficult",
+    "translation": "qiyin",
+    "example": "This problem is difficult.",
+    "translation_example": "Bu muammo qiyin.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "dig",
+    "translation": "kovlamoq",
+    "example": "They are digging a hole.",
+    "translation_example": "Ular chuqur kovlayapti.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "direct",
+    "translation": "to‘g‘ridan-to‘g‘ri / yo‘naltirmoq",
+    "example": "She gave a direct answer.",
+    "translation_example": "U to‘g‘ridan-to‘g‘ri javob berdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "direction",
+    "translation": "yo‘nalish",
+    "example": "We are going in the wrong direction.",
+    "translation_example": "Biz noto‘g‘ri yo‘nalishda boryapmiz.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dirty",
+    "translation": "iflos",
+    "example": "Your hands are dirty.",
+    "translation_example": "Qo‘llaringiz iflos.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "disagree",
+    "translation": "rozi bo‘lmaslik",
+    "example": "I disagree with you.",
+    "translation_example": "Men siz bilan rozi emasman.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "disappear",
+    "translation": "yo‘qolmoq",
+    "example": "The cat disappeared suddenly.",
+    "translation_example": "Mushuk to‘satdan yo‘qoldi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "discover",
+    "translation": "kashf qilmoq",
+    "example": "They discovered a new planet.",
+    "translation_example": "Ular yangi sayyora kashf qilishdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "discuss",
+    "translation": "muhokama qilmoq",
+    "example": "Let’s discuss the problem.",
+    "translation_example": "Keling, muammoni muhokama qilaylik.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "disease",
+    "translation": "kasallik",
+    "example": "Malaria is a deadly disease.",
+    "translation_example": "Malaria o‘limga olib keluvchi kasallikdir.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "damage",
+    "translation": "zarar",
+    "example": "The storm caused a lot of damage.",
+    "translation_example": "Bo'ron katta zarar yetkazdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dance",
+    "translation": "raqsga tushmoq",
+    "example": "She loves to dance at parties.",
+    "translation_example": "U bazmlarda raqsga tushishni yaxshi ko'radi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "danger",
+    "translation": "xavf",
+    "example": "He was unaware of the danger.",
+    "translation_example": "U xavfdan bexabar edi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "dark",
+    "translation": "qorong'u",
+    "example": "It gets dark early in winter.",
+    "translation_example": "Qishda erta qorong'u tushadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "data",
+    "translation": "ma'lumotlar",
+    "example": "The scientist collected the data.",
+    "translation_example": "Olim ma'lumotlarni to'pladi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "date",
+    "translation": "sana",
+    "example": "What's today's date?",
+    "translation_example": "Bugungi sana nima?",
+    "difficulty": "easy"
+  },
+  {
+    "word": "daughter",
+    "translation": "qiz farzand",
+    "example": "He has one daughter.",
+    "translation_example": "Uning bitta qizi bor.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "day",
+    "translation": "kun",
+    "example": "It's a sunny day.",
+    "translation_example": "Bugun quyoshli kun.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "dead",
+    "translation": "o'lik",
+    "example": "The phone battery is dead.",
+    "translation_example": "Telefonning quvvati tugagan.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "deal",
+    "translation": "kelishuv",
+    "example": "They made a good deal.",
+    "translation_example": "Ular yaxshi kelishuvga erishishdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dear",
+    "translation": "aziz",
+    "example": "She is very dear to me.",
+    "translation_example": "U men uchun juda aziz.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "death",
+    "translation": "o'lim",
+    "example": "He feared death.",
+    "translation_example": "U o'limdan qo'rqardi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "decide",
+    "translation": "qaror qilmoq",
+    "example": "He decided to stay home.",
+    "translation_example": "U uyda qolishga qaror qildi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "decision",
+    "translation": "qaror",
+    "example": "It was a tough decision.",
+    "translation_example": "Bu qiyin qaror edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "deep",
+    "translation": "chuqur",
+    "example": "The water is deep here.",
+    "translation_example": "Bu yerda suv chuqur.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "defend",
+    "translation": "himoya qilmoq",
+    "example": "They defended their land bravely.",
+    "translation_example": "Ular yerlarini jasorat bilan himoya qilishdi.",
+    "difficulty": "hard"
+  },
+  {
+    "word": "define",
+    "translation": "aniqlamoq",
+    "example": "Can you define this word?",
+    "translation_example": "Bu so‘zni aniqlay olasizmi?",
+    "difficulty": "medium"
+  },
+  {
+    "word": "degree",
+    "translation": "daraja",
+    "example": "She has a degree in law.",
+    "translation_example": "Uning huquq bo‘yicha diplomi bor.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "delay",
+    "translation": "kechikish",
+    "example": "The train was delayed.",
+    "translation_example": "Poyezd kechikdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "delicious",
+    "translation": "mazali",
+    "example": "The cake was delicious.",
+    "translation_example": "Tort juda mazali edi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "deliver",
+    "translation": "yetkazib bermoq",
+    "example": "They deliver food quickly.",
+    "translation_example": "Ular ovqatni tez yetkazib berishadi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "demand",
+    "translation": "talab qilmoq",
+    "example": "He demanded an answer.",
+    "translation_example": "U javob talab qildi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "deny",
+    "translation": "inkor qilmoq",
+    "example": "She denied the accusation.",
+    "translation_example": "U ayblovni inkor etdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "depend",
+    "translation": "bog'liq bo'lmoq",
+    "example": "It depends on the weather.",
+    "translation_example": "Bu ob-havoga bog'liq.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "describe",
+    "translation": "tasvirlab bermoq",
+    "example": "Can you describe what happened?",
+    "translation_example": "Nima bo‘lganini tasvirlab bera olasizmi?",
+    "difficulty": "medium"
+  },
+  {
+    "word": "design",
+    "translation": "dizayn qilmoq",
+    "example": "She designed her own dress.",
+    "translation_example": "U o‘z libosini o‘zi dizayn qildi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "desk",
+    "translation": "stol",
+    "example": "He sat at his desk all day.",
+    "translation_example": "U butun kunini stolida o'tkazdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "detail",
+    "translation": "tafsilot",
+    "example": "Explain it in detail.",
+    "translation_example": "Buni batafsil tushuntiring.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "develop",
+    "translation": "rivojlanmoq",
+    "example": "The child is developing well.",
+    "translation_example": "Bola yaxshi rivojlanmoqda.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "device",
+    "translation": "qurilma",
+    "example": "This device is useful.",
+    "translation_example": "Bu qurilma foydali.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "devote",
+    "translation": "bag‘ishlamoq",
+    "example": "He devoted his life to science.",
+    "translation_example": "U hayotini ilmga bag‘ishladi.",
+    "difficulty": "hard"
+  },
+  {
+    "word": "dialogue",
+    "translation": "muloqot",
+    "example": "The movie had great dialogue.",
+    "translation_example": "Filmda zo'r muloqotlar bor edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "die",
+    "translation": "vafot etmoq",
+    "example": "Many people died in the war.",
+    "translation_example": "Urushda ko‘plar vafot etdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "differ",
+    "translation": "farq qilmoq",
+    "example": "Opinions differ on this matter.",
+    "translation_example": "Bu masalada fikrlar farqlanadi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "difficult",
+    "translation": "qiyin",
+    "example": "This question is difficult.",
+    "translation_example": "Bu savol qiyin.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "dig",
+    "translation": "kovlamoq",
+    "example": "He dug a hole in the ground.",
+    "translation_example": "U yerda chuqur kovladi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dinner",
+    "translation": "kechki ovqat",
+    "example": "We had fish for dinner.",
+    "translation_example": "Kechki ovqatga baliq yedik.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "direction",
+    "translation": "yo‘nalish",
+    "example": "He walked in the wrong direction.",
+    "translation_example": "U noto‘g‘ri yo‘nalishda yurdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dirty",
+    "translation": "kir",
+    "example": "The floor is dirty.",
+    "translation_example": "Pol kir.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "disagree",
+    "translation": "kelishmovchilikda bo‘lmoq",
+    "example": "They disagreed on the topic.",
+    "translation_example": "Ular mavzuda kelisha olishmadi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "discover",
+    "translation": "kashf qilmoq",
+    "example": "She discovered a new planet.",
+    "translation_example": "U yangi sayyorani kashf etdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "discuss",
+    "translation": "muhokama qilmoq",
+    "example": "Let's discuss the issue.",
+    "translation_example": "Keling, masalani muhokama qilaylik.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "disease",
+    "translation": "kasallik",
+    "example": "They found a cure for the disease.",
+    "translation_example": "Ular kasallik uchun davoni topishdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dish",
+    "translation": "taom",
+    "example": "This is my favorite dish.",
+    "translation_example": "Bu mening sevimli taomim.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "display",
+    "translation": "ko‘rsatmoq",
+    "example": "The store displays new clothes.",
+    "translation_example": "Do‘kon yangi kiyimlarni ko‘rsatmoqda.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "distance",
+    "translation": "masofa",
+    "example": "They kept a safe distance.",
+    "translation_example": "Ular xavfsiz masofani saqlashdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "diverse",
+    "translation": "turli xil",
+    "example": "The group is diverse in culture.",
+    "translation_example": "Guruh madaniyat jihatdan turli xil.",
+    "difficulty": "hard"
+  },
+  {
+    "word": "divide",
+    "translation": "bo‘lmoq",
+    "example": "Let's divide the money equally.",
+    "translation_example": "Pulni teng taqsimlaylik.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "doctor",
+    "translation": "shifokor",
+    "example": "The doctor examined the patient.",
+    "translation_example": "Shifokor bemorni ko‘rikdan o‘tkazdi.",
+    "difficulty": "easy"
+  },
+   {
+    "word": "each",
+    "translation": "har biri",
+    "example": "Each student must submit the form.",
+    "translation_example": "Har bir talaba formani topshirishi kerak.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "eager",
+    "translation": "ishtiyoqli",
+    "example": "She was eager to start the project.",
+    "translation_example": "U loyiha boshlashga ishtiyoqli edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ear",
+    "translation": "quloq",
+    "example": "He whispered into her ear.",
+    "translation_example": "U uning qulog‘iga pichirladi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "early",
+    "translation": "ertalab/erta",
+    "example": "We arrived early to the meeting.",
+    "translation_example": "Biz uchrashuvga erta yetib keldik.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "earn",
+    "translation": "pul topmoq",
+    "example": "I earn money by freelancing.",
+    "translation_example": "Men freelancing orqali pul topaman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "earth",
+    "translation": "yer",
+    "example": "The Earth revolves around the sun.",
+    "translation_example": "Yer quyosh atrofida aylanadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ease",
+    "translation": "yengillashtirmoq",
+    "example": "The medicine helped ease the pain.",
+    "translation_example": "Dori og‘riqni yengillashtirishga yordam berdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "east",
+    "translation": "sharq",
+    "example": "The sun rises in the east.",
+    "translation_example": "Quyosh sharqdan chiqadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "easy",
+    "translation": "oson",
+    "example": "This question is very easy.",
+    "translation_example": "Bu savol juda oson.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "eat",
+    "translation": "yemoq",
+    "example": "I usually eat lunch at 1 PM.",
+    "translation_example": "Men odatda soat 1 da tushlik qilaman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "echo",
+    "translation": "aks sadolanmoq",
+    "example": "Her voice echoed in the cave.",
+    "translation_example": "Uning ovozi g‘orda aks sadosi berdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "edge",
+    "translation": "chekka",
+    "example": "She stood at the edge of the cliff.",
+    "translation_example": "U qoyaning chekkasida turdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "edit",
+    "translation": "tahrirlamoq",
+    "example": "I need to edit this document.",
+    "translation_example": "Men bu hujjatni tahrirlashim kerak.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "education",
+    "translation": "ta’lim",
+    "example": "Education is important for everyone.",
+    "translation_example": "Ta’lim har bir kishi uchun muhimdir.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "effect",
+    "translation": "ta’sir",
+    "example": "The medicine had a strong effect.",
+    "translation_example": "Dori kuchli ta’sir qildi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "effort",
+    "translation": "harakat",
+    "example": "Success requires effort.",
+    "translation_example": "Muvaffaqiyat harakatni talab qiladi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "egg",
+    "translation": "tuxum",
+    "example": "I had an egg for breakfast.",
+    "translation_example": "Men nonushtada tuxum yedim.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "eight",
+    "translation": "sakkiz",
+    "example": "There are eight books on the table.",
+    "translation_example": "Stol ustida sakkizta kitob bor.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "either",
+    "translation": "yoki... yoki",
+    "example": "You can choose either coffee or tea.",
+    "translation_example": "Siz qahva yoki choydan birini tanlashingiz mumkin.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "elbow",
+    "translation": " tirsak",
+    "example": "He injured his elbow while playing.",
+    "translation_example": "U o‘ynayotganida tirsagini jarohatlab oldi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "elder",
+    "translation": "kattaroq",
+    "example": "Respect your elders.",
+    "translation_example": "Kattalarga hurmat ko‘rsating.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "elect",
+    "translation": "saylamoq",
+    "example": "They elected a new president.",
+    "translation_example": "Ular yangi prezidentni saylashdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "electric",
+    "translation": "elektrik",
+    "example": "I bought an electric car.",
+    "translation_example": "Men elektr mashina sotib oldim.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "elevator",
+    "translation": "lift",
+    "example": "Take the elevator to the third floor.",
+    "translation_example": "Lift orqali uchinchi qavatga chiqing.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "else",
+    "translation": "yana boshqasi",
+    "example": "What else do you want?",
+    "translation_example": "Yana nima xohlaysiz?",
+    "difficulty": "easy"
+  },
+  {
+    "word": "email",
+    "translation": "elektron pochta",
+    "example": "Send me an email.",
+    "translation_example": "Menga email yuboring.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "embarrass",
+    "translation": "uyaltirmoq",
+    "example": "Don't embarrass me in front of others.",
+    "translation_example": "Meni boshqalar oldida uyaltirma.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "emerge",
+    "translation": "paydo bo‘lmoq",
+    "example": "The truth will emerge one day.",
+    "translation_example": "Haqiqat bir kuni ayon bo‘ladi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "emotion",
+    "translation": "hissiyot",
+    "example": "He showed no emotion.",
+    "translation_example": "U hech qanday hissiyot ko‘rsatmadi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "employ",
+    "translation": "ishga olish",
+    "example": "The company employs 200 people.",
+    "translation_example": "Kompaniya 200 kishini ish bilan ta’minlaydi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "empty",
+    "translation": "bo‘sh",
+    "example": "The glass is empty.",
+    "translation_example": "Stakan bo‘sh.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "enable",
+    "translation": "imkon bermoq",
+    "example": "The app enables you to track your steps.",
+    "translation_example": "Ilova sizga qadamingizni kuzatishga imkon beradi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "encourage",
+    "translation": "rag‘batlantirmoq",
+    "example": "Parents should encourage their children.",
+    "translation_example": "Ota-onalar bolalarini rag‘batlantirishlari kerak.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "end",
+    "translation": "tugamoq",
+    "example": "The movie ended happily.",
+    "translation_example": "Film baxtli tugadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "enemy",
+    "translation": "dushman",
+    "example": "They became enemies after the war.",
+    "translation_example": "Ular urushdan keyin dushmanga aylandi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "energy",
+    "translation": "energiya",
+    "example": "I don't have enough energy to run.",
+    "translation_example": "Yugurishga kuchim yetmayapti.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "engine",
+    "translation": "dvigatel",
+    "example": "The car's engine stopped.",
+    "translation_example": "Mashinaning dvigateli to‘xtadi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "enhance",
+    "translation": "yaxshilamoq",
+    "example": "The software enhances image quality.",
+    "translation_example": "Dastur rasm sifatini yaxshilaydi.",
+    "difficulty": "hard"
+  },
+  {
+    "word": "enjoy",
+    "translation": "rohatlanmoq",
+    "example": "I enjoy reading books.",
+    "translation_example": "Kitob o‘qishni yaxshi ko‘raman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "enough",
+    "translation": "yetarli",
+    "example": "We have enough food for everyone.",
+    "translation_example": "Hammaga yetadigan ovqat bor.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "enter",
+    "translation": "kirmoq",
+    "example": "Please enter the building quietly.",
+    "translation_example": "Iltimos, binoga tinch kiring.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "entire",
+    "translation": "to‘liq",
+    "example": "He watched the entire movie.",
+    "translation_example": "U butun filmni tomosha qildi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "environment",
+    "translation": "atrof-muhit",
+    "example": "We must protect the environment.",
+    "translation_example": "Biz atrof-muhitni himoya qilishimiz kerak.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "equal",
+    "translation": "teng",
+    "example": "All people are equal under the law.",
+    "translation_example": "Qonun oldida hamma tengdir.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "equipment",
+    "translation": "uskunalar",
+    "example": "We need more sports equipment.",
+    "translation_example": "Bizga ko‘proq sport uskunalari kerak.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "escape",
+    "translation": "qochib qutulmoq",
+    "example": "They escaped from the fire.",
+    "translation_example": "Ular yong‘indan qochib qutulishdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "especially",
+    "translation": "ayniqsa",
+    "example": "I love pizza, especially with cheese.",
+    "translation_example": "Men pitsa yaxshi ko‘raman, ayniqsa pishloqli.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "essay",
+    "translation": "insho",
+    "example": "Write an essay about your favorite season.",
+    "translation_example": "Sevimli faslingiz haqida insho yozing.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "establish",
+    "translation": "asos solmoq",
+    "example": "The company was established in 1995.",
+    "translation_example": "Kompaniya 1995-yilda tashkil topgan.",
+    "difficulty": "hard"
+  },
+  {
+    "word": "even",
+    "translation": "hatto",
+    "example": "Even he didn’t believe it.",
+    "translation_example": "Hatto u ham bunga ishonmadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "eager",
+    "translation": "ishtiyoqmand",
+    "example": "She is eager to learn new things.",
+    "translation_example": "U yangi narsalarni o‘rganishga ishtiyoqmand.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "earn",
+    "translation": "topmoq",
+    "example": "He earns a good salary.",
+    "translation_example": "U yaxshi maosh oladi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "earth",
+    "translation": "yer (sayyora)",
+    "example": "The Earth revolves around the Sun.",
+    "translation_example": "Yer Quyosh atrofida aylanadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ease",
+    "translation": "yengillik",
+    "example": "He passed the test with ease.",
+    "translation_example": "U testdan osonlik bilan o‘tdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "east",
+    "translation": "sharq",
+    "example": "The sun rises in the east.",
+    "translation_example": "Quyosh sharqdan chiqadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "echo",
+    "translation": "aks sadо",
+    "example": "The cave echoed our voices.",
+    "translation_example": "G‘or bizning ovozimizni aks ettirdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "edit",
+    "translation": "tahrirlash",
+    "example": "She edited the article before publishing.",
+    "translation_example": "U maqolani nashr qilishdan oldin tahrirladi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "educate",
+    "translation": "ta'lim bermoq",
+    "example": "Schools educate children.",
+    "translation_example": "Maktablar bolalarga ta'lim beradi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "effect",
+    "translation": "ta'sir",
+    "example": "The medicine had a quick effect.",
+    "translation_example": "Dori tez ta’sir ko‘rsatdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "efficient",
+    "translation": "samarali",
+    "example": "She is an efficient worker.",
+    "translation_example": "U samarali ishchi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "effort",
+    "translation": "harakat",
+    "example": "He made a great effort to win.",
+    "translation_example": "U g‘alaba qozonish uchun katta harakat qildi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "egg",
+    "translation": "tuxum",
+    "example": "I had an egg for breakfast.",
+    "translation_example": "Men nonushtada tuxum yedim.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "either",
+    "translation": "ham (salbiyda ishlatiladi)",
+    "example": "I don't like it either.",
+    "translation_example": "Menga ham bu yoqmaydi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "elbow",
+    "translation": "tirsak",
+    "example": "He injured his elbow.",
+    "translation_example": "U tirsagini jarohatladi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "elder",
+    "translation": "katta (yosh jihatdan)",
+    "example": "My elder brother is a doctor.",
+    "translation_example": "Mening katta akam shifokor.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "electric",
+    "translation": "elektr",
+    "example": "Electric cars are becoming popular.",
+    "translation_example": "Elektr mashinalar mashhur bo‘lib bormoqda.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "elegant",
+    "translation": "nozik, nafis",
+    "example": "She wore an elegant dress.",
+    "translation_example": "U nafis ko‘ylak kiygan edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "element",
+    "translation": "element",
+    "example": "Water is made of two elements.",
+    "translation_example": "Suv ikki elementdan tashkil topgan.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "elevator",
+    "translation": "lift",
+    "example": "Take the elevator to the fifth floor.",
+    "translation_example": "Beshinchi qavatga lift bilan chiqing.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "else",
+    "translation": "yana boshqa",
+    "example": "Do you need anything else?",
+    "translation_example": "Yana nimadir kerakmi?",
+    "difficulty": "easy"
+  },
+  {
+    "word": "email",
+    "translation": "elektron pochta",
+    "example": "Send me an email tomorrow.",
+    "translation_example": "Ertaga menga email yuboring.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "embarrass",
+    "translation": "uyaltirmoq",
+    "example": "He was embarrassed by the question.",
+    "translation_example": "U savoldan uyaldi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "emerge",
+    "translation": "paydo bo‘lmoq",
+    "example": "The sun emerged from the clouds.",
+    "translation_example": "Quyosh bulutlar orasidan chiqdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "emotion",
+    "translation": "hissiyot",
+    "example": "She couldn't hide her emotions.",
+    "translation_example": "U hissiyotlarini yashira olmadi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "employ",
+    "translation": "ishga olmoq",
+    "example": "The company employs 200 people.",
+    "translation_example": "Kompaniya 200 kishini ishga oladi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "empty",
+    "translation": "bo‘sh",
+    "example": "The bottle is empty.",
+    "translation_example": "Shisha bo‘sh.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "enable",
+    "translation": "imkon yaratmoq",
+    "example": "This tool enables faster editing.",
+    "translation_example": "Bu vosita tezroq tahrir qilishga imkon beradi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "encourage",
+    "translation": "rag‘batlantirmoq",
+    "example": "Parents should encourage children.",
+    "translation_example": "Ota-onalar bolalarni rag‘batlantirishi kerak.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "end",
+    "translation": "tugamoq",
+    "example": "The show ended at 10 PM.",
+    "translation_example": "Ko‘rsatuv soat 10 da tugadi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "enemy",
+    "translation": "dushman",
+    "example": "They fought their enemies bravely.",
+    "translation_example": "Ular dushmanlariga jasorat bilan qarshi chiqishdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "energy",
+    "translation": "energiya",
+    "example": "She has a lot of energy.",
+    "translation_example": "Unda juda ko‘p energiya bor.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "engage",
+    "translation": "jalb qilmoq",
+    "example": "Try to engage the audience.",
+    "translation_example": "Tinglovchilarni jalb qilishga harakat qiling.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "engine",
+    "translation": "dvigatel",
+    "example": "The car’s engine is very powerful.",
+    "translation_example": "Mashinaning dvigateli juda kuchli.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "enhance",
+    "translation": "kuchaytirmoq",
+    "example": "This will enhance your skills.",
+    "translation_example": "Bu sizning ko‘nikmalaringizni kuchaytiradi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "enjoy",
+    "translation": "rohatlanmoq",
+    "example": "Did you enjoy the party?",
+    "translation_example": "Bazmdan rohatlandingizmi?",
+    "difficulty": "easy"
+  },
+  {
+    "word": "enough",
+    "translation": "yetarli",
+    "example": "We have enough food.",
+    "translation_example": "Bizda yetarli ovqat bor.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ensure",
+    "translation": "ta'minlamoq",
+    "example": "Please ensure all doors are locked.",
+    "translation_example": "Iltimos, barcha eshiklar yopilganiga ishonch hosil qiling.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "enter",
+    "translation": "kirish",
+    "example": "He entered the room quietly.",
+    "translation_example": "U xonaga sekin kirdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "entire",
+    "translation": "butun",
+    "example": "The entire class passed the exam.",
+    "translation_example": "Butun sinf imtihondan o‘tdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "entry",
+    "translation": "kirish (joy)",
+    "example": "The entry to the museum is free.",
+    "translation_example": "Muzeyga kirish bepul.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "envelope",
+    "translation": "konvert",
+    "example": "Put the letter in the envelope.",
+    "translation_example": "Xatni konvertga soling.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "environment",
+    "translation": "atrof-muhit",
+    "example": "We must protect the environment.",
+    "translation_example": "Biz atrof-muhitni himoya qilishimiz kerak.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "equal",
+    "translation": "teng",
+    "example": "All people are equal.",
+    "translation_example": "Barcha odamlar tengdir.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "equipment",
+    "translation": "uskunalar",
+    "example": "The gym has modern equipment.",
+    "translation_example": "Sport zalida zamonaviy uskunalar mavjud.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "escape",
+    "translation": "qochmoq",
+    "example": "He escaped from prison.",
+    "translation_example": "U qamoqdan qochib ketdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "especially",
+    "translation": "ayniqsa",
+    "example": "I like fruit, especially apples.",
+    "translation_example": "Men mevalarni, ayniqsa olmalarni yaxshi ko‘raman.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "essay",
+    "translation": "insho",
+    "example": "She wrote an essay on education.",
+    "translation_example": "U ta’lim haqida insho yozdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "essential",
+    "translation": "muhim, zarur",
+    "example": "Water is essential for life.",
+    "translation_example": "Hayot uchun suv muhimdir.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "establish",
+    "translation": "asos solmoq",
+    "example": "They established a new company.",
+    "translation_example": "Ular yangi kompaniya tashkil qilishdi.",
+    "difficulty": "medium"
+  },
+    {
+    "word": "fabric",
+    "translation": "matо",
+    "example": "The dress is made of silk fabric.",
+    "translation_example": "Ko‘ylak ipak matodan tikilgan.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "face",
+    "translation": "yuz",
+    "example": "She has a beautiful face.",
+    "translation_example": "Uning yuzi chiroyli.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fact",
+    "translation": "fakt, haqiqat",
+    "example": "It's a known fact.",
+    "translation_example": "Bu ma’lum haqiqat.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fail",
+    "translation": "muvaffaqiyatsizlikka uchramoq",
+    "example": "I failed my exam.",
+    "translation_example": "Men imtihondan yiqildim.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fair",
+    "translation": "adolatli",
+    "example": "She is a fair judge.",
+    "translation_example": "U adolatli hakam.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "faith",
+    "translation": "e’tiqod",
+    "example": "He has strong faith.",
+    "translation_example": "Uning kuchli e’tiqodi bor.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fall",
+    "translation": "yiqilmoq",
+    "example": "Be careful not to fall.",
+    "translation_example": "Yiqilib ketmaslikka ehtiyot bo‘l.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "false",
+    "translation": "noto‘g‘ri, yolg‘on",
+    "example": "The information was false.",
+    "translation_example": "Ma’lumot yolg‘on edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "family",
+    "translation": "oila",
+    "example": "I love my family.",
+    "translation_example": "Men oilamni yaxshi ko‘raman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "famous",
+    "translation": "mashhur",
+    "example": "He is a famous actor.",
+    "translation_example": "U mashhur aktyor.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fan",
+    "translation": "muxlis",
+    "example": "I'm a big fan of this singer.",
+    "translation_example": "Men bu qo‘shiqchining katta muxlisiman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fancy",
+    "translation": "dabdabali",
+    "example": "They live in a fancy house.",
+    "translation_example": "Ular dabdabali uyda yashaydi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "far",
+    "translation": "uzoqqa",
+    "example": "He lives far from here.",
+    "translation_example": "U bu yerdan uzoqda yashaydi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "farm",
+    "translation": "ferma",
+    "example": "They work on a farm.",
+    "translation_example": "Ular fermada ishlaydi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fashion",
+    "translation": "moda",
+    "example": "She loves fashion.",
+    "translation_example": "U modani yaxshi ko‘radi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fast",
+    "translation": "tez",
+    "example": "He is a fast runner.",
+    "translation_example": "U tez yuguruvchi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fat",
+    "translation": "semiz",
+    "example": "The cat is fat.",
+    "translation_example": "Mushuk semiz.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "father",
+    "translation": "ota",
+    "example": "My father is a teacher.",
+    "translation_example": "Mening otam o‘qituvchi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fault",
+    "translation": "ayb",
+    "example": "It's not your fault.",
+    "translation_example": "Bu sening aybing emas.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fear",
+    "translation": "qo‘rquv",
+    "example": "He showed no fear.",
+    "translation_example": "Uda qo‘rquv ko‘rinmadi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "feature",
+    "translation": "xususiyat",
+    "example": "This phone has many features.",
+    "translation_example": "Bu telefonda ko‘p xususiyatlar bor.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "feed",
+    "translation": "ovqatlantirmoq",
+    "example": "She feeds the cat every day.",
+    "translation_example": "U har kuni mushukni ovqatlantiradi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "feel",
+    "translation": "his qilmoq",
+    "example": "I feel happy today.",
+    "translation_example": "Bugun o‘zimni baxtli his qilyapman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "female",
+    "translation": "ayol",
+    "example": "This animal is female.",
+    "translation_example": "Bu hayvon urg‘ochi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "festival",
+    "translation": "festival",
+    "example": "We attended a music festival.",
+    "translation_example": "Biz musiqa festivalida qatnashdik.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "few",
+    "translation": "bir nechta",
+    "example": "Only a few people came.",
+    "translation_example": "Faqat bir nechta odam keldi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "field",
+    "translation": "maydon",
+    "example": "They played in the field.",
+    "translation_example": "Ular maydonda o‘ynashdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fight",
+    "translation": "jang qilmoq",
+    "example": "They had a big fight.",
+    "translation_example": "Ular katta janjal qilishdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "figure",
+    "translation": "figura, shakl",
+    "example": "She has a nice figure.",
+    "translation_example": "Uning figurasi chiroyli.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "file",
+    "translation": "fayl",
+    "example": "I saved the file.",
+    "translation_example": "Men faylni saqladim.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fill",
+    "translation": "to‘ldirmoq",
+    "example": "Fill the bottle with water.",
+    "translation_example": "Shishani suv bilan to‘ldiring.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "film",
+    "translation": "film",
+    "example": "I watched a great film.",
+    "translation_example": "Men ajoyib film ko‘rdim.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "final",
+    "translation": "oxirgi",
+    "example": "This is the final round.",
+    "translation_example": "Bu oxirgi bosqich.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "finance",
+    "translation": "moliyaviy",
+    "example": "She studied finance.",
+    "translation_example": "U moliyani o‘rgangan.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "find",
+    "translation": "topmoq",
+    "example": "I can't find my keys.",
+    "translation_example": "Men kalitlarimni topolmayapman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fine",
+    "translation": "yaxshi",
+    "example": "I'm feeling fine.",
+    "translation_example": "O‘zimni yaxshi his qilyapman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "finger",
+    "translation": "barmoq",
+    "example": "I cut my finger.",
+    "translation_example": "Men barmoqlarimni kesib oldim.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "finish",
+    "translation": "tugatmoq",
+    "example": "I need to finish my homework.",
+    "translation_example": "Uy vazifamni tugatishim kerak.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fire",
+    "translation": "olov, yong‘in",
+    "example": "The fire spread quickly.",
+    "translation_example": "Yong‘in tez tarqaldi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "firm",
+    "translation": "qat’iy, kompaniya",
+    "example": "She works in a law firm.",
+    "translation_example": "U yuristlik kompaniyasida ishlaydi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "first",
+    "translation": "birinchi",
+    "example": "He finished first.",
+    "translation_example": "U birinchi bo‘lib tugatdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fish",
+    "translation": "baliq",
+    "example": "We caught a big fish.",
+    "translation_example": "Biz katta baliq tutdik.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fit",
+    "translation": "mos, sog‘lom",
+    "example": "This shirt doesn't fit me.",
+    "translation_example": "Bu ko‘ylak menga to‘g‘ri kelmaydi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "five",
+    "translation": "besh",
+    "example": "I have five books.",
+    "translation_example": "Menda beshta kitob bor.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fix",
+    "translation": "tuzatmoq",
+    "example": "He fixed the bike.",
+    "translation_example": "U velosipedni tuzatdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "flag",
+    "translation": "bayroq",
+    "example": "They raised the flag.",
+    "translation_example": "Ular bayroqni ko‘tardi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "flat",
+    "translation": "tekis, kvartira",
+    "example": "They live in a small flat.",
+    "translation_example": "Ular kichik kvartirada yashaydi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "flight",
+    "translation": "parvoz",
+    "example": "My flight was delayed.",
+    "translation_example": "Parvozim kechiktirildi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "floor",
+    "translation": "qavat, pol",
+    "example": "They live on the third floor.",
+    "translation_example": "Ular uchinchi qavatda yashaydi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "flower",
+    "translation": "gul",
+    "example": "She loves flowers.",
+    "translation_example": "U gullarni yaxshi ko‘radi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fuck",
+    "translation": "so‘kinch so‘z (qo‘pol)",
+    "example": "He said 'fuck' when he got angry.",
+    "translation_example": "U jahli chiqqanda 'fuck' deb so‘kindi.",
+    "difficulty": "hard"
+  },
+  {
+    "word": "flexible",
+    "translation": "moslashuvchan",
+    "example": "She has a flexible schedule.",
+    "translation_example": "Uning jadvali moslashuvchan.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "flood",
+    "translation": "suv toshqini",
+    "example": "The flood damaged many homes.",
+    "translation_example": "Suv toshqini ko‘plab uylarga zarar yetkazdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "flour",
+    "translation": "un",
+    "example": "We need flour to bake the cake.",
+    "translation_example": "Tort pishirish uchun un kerak.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "flow",
+    "translation": "oqim",
+    "example": "The river’s flow was strong.",
+    "translation_example": "Daryoning oqimi kuchli edi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "flower",
+    "translation": "gul",
+    "example": "The garden is full of flowers.",
+    "translation_example": "Bog‘ gullarga to‘la.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fluent",
+    "translation": "erkin (gapira oluvchi)",
+    "example": "He is fluent in three languages.",
+    "translation_example": "U uchta tilni erkin biladi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "focus",
+    "translation": "diqqatni jamlash",
+    "example": "Try to focus on your goals.",
+    "translation_example": "Maqsadingizga e’tibor qarating.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fog",
+    "translation": "tuman",
+    "example": "The road was covered in thick fog.",
+    "translation_example": "Yo‘l qalin tuman bilan qoplangan edi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fold",
+    "translation": "qatlamoq",
+    "example": "Please fold the paper in half.",
+    "translation_example": "Iltimos, qog‘ozni ikkiga buklang.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "follow",
+    "translation": "ergashmoq",
+    "example": "Follow me to the room.",
+    "translation_example": "Xonaga ergashing.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "food",
+    "translation": "ovqat",
+    "example": "I love Italian food.",
+    "translation_example": "Men italyan taomlarini yaxshi ko‘raman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fool",
+    "translation": "ahmoq",
+    "example": "Don’t act like a fool.",
+    "translation_example": "O‘zingizni ahmoqdek tutmang.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "football",
+    "translation": "futbol",
+    "example": "He plays football every weekend.",
+    "translation_example": "U har hafta oxiri futbol o‘ynaydi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "force",
+    "translation": "kuch",
+    "example": "He used force to open the door.",
+    "translation_example": "U eshikni ochish uchun kuch ishlatdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "forecast",
+    "translation": "ob-havo bashorati",
+    "example": "The weather forecast is sunny.",
+    "translation_example": "Ob-havo bashorati quyoshli deb aytmoqda.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "forest",
+    "translation": "o‘rmon",
+    "example": "They went camping in the forest.",
+    "translation_example": "Ular o‘rmonda lagerga bordilar.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "forget",
+    "translation": "unutmoq",
+    "example": "Don’t forget your keys.",
+    "translation_example": "Kalitlaringizni unutmang.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "forgive",
+    "translation": "kechirmoq",
+    "example": "I hope you can forgive me.",
+    "translation_example": "Umid qilamanki, siz meni kechirasiz.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "form",
+    "translation": "shakl",
+    "example": "Fill out the form carefully.",
+    "translation_example": "Shaklni ehtiyotkorlik bilan to‘ldiring.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fortune",
+    "translation": "boylik",
+    "example": "He made a fortune in business.",
+    "translation_example": "U biznesda katta boylik topdi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "forward",
+    "translation": "olga",
+    "example": "He took a step forward.",
+    "translation_example": "U bir qadam oldinga qo‘ydi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "found",
+    "translation": "topmoq / asos solmoq",
+    "example": "She found a coin on the street.",
+    "translation_example": "U ko‘chada tanga topdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "foundation",
+    "translation": "asos",
+    "example": "The building’s foundation is strong.",
+    "translation_example": "Bino poydevori mustahkam.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fox",
+    "translation": "tulki",
+    "example": "A fox ran through the field.",
+    "translation_example": "Tulki daladan yugurib o‘tdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "frame",
+    "translation": "ramka / tuzilma",
+    "example": "I put the photo in a nice frame.",
+    "translation_example": "Men suratni chiroyli ramkaga joylashtirdim.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "freedom",
+    "translation": "erkinlik",
+    "example": "Freedom is a basic human right.",
+    "translation_example": "Erkinlik insonning asosiy huquqidir.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "freeze",
+    "translation": "muzlatmoq",
+    "example": "Water freezes at 0°C.",
+    "translation_example": "Suv 0°C da muzlaydi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fresh",
+    "translation": "yangi / toza",
+    "example": "I love fresh vegetables.",
+    "translation_example": "Men yangi sabzavotlarni yaxshi ko‘raman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "friend",
+    "translation": "do‘st",
+    "example": "He is my best friend.",
+    "translation_example": "U mening eng yaqin do‘stim.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "friendship",
+    "translation": "do‘stlik",
+    "example": "Their friendship is strong.",
+    "translation_example": "Ularning do‘stligi mustahkam.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "frog",
+    "translation": "qurbaqa",
+    "example": "A frog jumped into the pond.",
+    "translation_example": "Qurbaqa hovuzga sakradi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "front",
+    "translation": "old tomon",
+    "example": "She stood in front of the door.",
+    "translation_example": "U eshik oldida turdi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fruit",
+    "translation": "meva",
+    "example": "I eat fresh fruit every day.",
+    "translation_example": "Men har kuni yangi meva yeyman.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fuel",
+    "translation": "yoqilg‘i",
+    "example": "The car needs fuel to run.",
+    "translation_example": "Mashina yurishi uchun yoqilg‘i kerak.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fun",
+    "translation": "qiziqarli / zavqli",
+    "example": "We had fun at the party.",
+    "translation_example": "Biz bazmda chiroyli vaqt o‘tkazdik.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "function",
+    "translation": "vazifa / funksiyasi",
+    "example": "The brain has many functions.",
+    "translation_example": "Miyaning ko‘plab funksiyalari bor.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fund",
+    "translation": "jamg‘arma",
+    "example": "The school received a new fund.",
+    "translation_example": "Maktab yangi jamg‘arma oldi.",
+    "difficulty": "medium"
+  },
+  {
+    "word": "funny",
+    "translation": "kulgili",
+    "example": "That joke was really funny.",
+    "translation_example": "Bu hazil juda kulgili edi.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fur",
+    "translation": "jun / tuk",
+    "example": "The cat’s fur is soft.",
+    "translation_example": "Mushukning juni yumshoq.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "future",
+    "translation": "kelajak",
+    "example": "She is planning for the future.",
+    "translation_example": "U kelajak uchun reja qilmoqda.",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fuck",
+    "translation": "so‘kinish (qo‘pol so‘z)",
+    "example": "He said 'fuck' when he was angry.",
+    "translation_example": "U jahli chiqqanda 'fuck' deb so‘kindi.",
+    "difficulty": "hard"
   }
+  
 ]
